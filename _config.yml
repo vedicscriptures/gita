@@ -2,4 +2,4 @@ title: Bhagavad Gita API
 description : A lightweight Node-based Bhagavad Gita API server, A small step to bring Vedic Indian Scriptures in api's world
 Teg : api, api-rest, krishna, hinduism, vedic, iskcon, sanatadharma
 show_downloads: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
