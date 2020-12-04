@@ -1,5 +1,5 @@
 <div align="center"><h1>Bhagavad Gita API</h1></div>
-<p align="center"><img alt="Bhagavad Gita API" src="https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679" width="300vw"/></p>
+<p align="center"><img alt="Bhagavad Gita API" src="https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679" width="400vw"/></p>
 <p align="center">
 	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/vedicscriptures/bhagavad-gita-api/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vedicscriptures/bhagavad-gita-api.svg?style=flat-square"/></a>
@@ -43,7 +43,7 @@
 - **`Method`** : `GET` 
 - **`Response 200 `**  :  **`(application/json)`**
 
-```json
+```perl
 {
   "_id": "BG4.18",
   "chapter": 4,
@@ -153,7 +153,7 @@
 - **`Method`** : `GET` 
 - **`Response 200 `**  :  **`(application/json)`**
 	
-```json
+```perl
 [
   {
 	"chapter_number": 1,
@@ -169,10 +169,8 @@
 	  "en": "The first chapter of the Bhagavad Gita - Arjuna Vishada Yoga introduces the setup, the setting, the characters and the circumstances that led to the epic battle of Mahabharata, fought between the Pandavas and the Kauravas. It outlines the reasons that led to the revelation of the of Bhagavad Gita.\nAs both armies stand ready for the battle, the mighty warrior Arjuna, on observing the warriors on both sides becomes increasingly sad and depressed due to the fear of losing his relatives and friends and the consequent sins attributed to killing his own relatives. So, he surrenders to Lord Krishna, seeking a solution. Thus, follows the wisdom of the Bhagavad Gita.",
 	  "hi": "भगवद गीता का पहला अध्याय अर्जुन विशाद योग उन पात्रों और परिस्थितियों का परिचय कराता है जिनके कारण पांडवों और कौरवों के बीच महाभारत का महासंग्राम हुआ। यह अध्याय उन कारणों का वर्णन करता है जिनके कारण भगवद गीता का ईश्वरावेश हुआ। जब महाबली योद्धा अर्जुन दोनों पक्षों पर युद्ध के लिए तैयार खड़े योद्धाओं को देखते हैं तो वह अपने ही रिश्तेदारों एवं मित्रों को खोने के डर तथा फलस्वरूप पापों के कारण दुखी और उदास हो जाते हैं। इसलिए वह श्री कृष्ण को पूरी तरह से आत्मसमर्पण करते हैं। इस प्रकार, भगवद गीता के ज्ञान का प्रकाश होता है।"
 	}
-  }, 
-  ...
-  ...
-  ...
+  },
+  {"chapter 2": "chapter 17"},
   {
 	"chapter_number": 18,
 	"verses_count": 78,
@@ -201,7 +199,7 @@
 	- **`:ch`** : `[interger]` specfic chapter number from any of 18 chapters 
 - **`Response 200 `**  :  **`(application/json)`**  
 
-```json
+```perl
 {
   "chapter_number": 1,
   "verses_count": 47,
@@ -230,7 +228,7 @@
 	- **`:sl`** : `[interger]` specfic Slok(verse) number avilable in taht particuler `chapter` 
 - **`Response 200 `**  :  **`(application/json)`**  
 
-```json
+```perl
 {
   "_id": "BG1.1",
   "chapter": 1,
@@ -339,7 +337,7 @@
 - **`Method`** : `GET`
 - **`Response 200 `**  :  **`(image/svg+xml)`**
 
-<p align="center"><img alt="Bhagavad Gita API" src="https://vedicscripturesapi.herokuapp.com/gita.svg" width="200vw"/></p>
+<p align="center"><img alt="Bhagavad Gita API" src="https://vedicscripturesapi.herokuapp.com/gita.svg" width="500vw"/></p>
 
 </details>
 <details>
@@ -353,7 +351,7 @@
   - **`{chapter_num}`** : `[interger]` specfic chapter number from any of 18 chapters 
 - **`Response 200 `**  :  **`(image/svg+xml)`**
 
-<p align="center"><img alt="Bhagavad Gita API" src="https://vedicscripturesapi.herokuapp.com/gita.svg?ch=1" width="200vw"/></p>
+<p align="center"><img alt="Bhagavad Gita API" src="https://vedicscripturesapi.herokuapp.com/gita.svg?ch=1" width="500vw"/></p>
 
 </details>
 <details>
@@ -368,7 +366,7 @@
   - **`{slok_num}`** : `[interger]` specfic slok number avilable in taht particuler `chapter` 
 - **`Response 200 `**  :  **`(image/svg+xml)`**
 
-<p align="center"><img alt="Bhagavad Gita API" src="https://vedicscripturesapi.herokuapp.com/gita.svg?ch=1&sl=1" width="200vw"/></p>
+<p align="center"><img alt="Bhagavad Gita API" src="https://vedicscripturesapi.herokuapp.com/gita.svg?ch=1&sl=1" width="500vw"/></p>
 
 </details>
 
