@@ -375,7 +375,8 @@
 ## Source
 
 #### Swami Tejomayananda
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=vedicscriptur-21&marketplace=amazon&region=IN&placement=B07QB1YNWG&asins=B07QB1YNWG&linkId=032f012fbe20c7881b6fe732969ada5c&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<a href="https://www.amazon.in/Shrimad-Bhagavad-Gita-Audio-Discourses/dp/B07QB1YNWG/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=vedicscriptur-21&linkId=c685dc27f25598e4369c4a24f10db9f4" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QB1YNWG&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=vedicscriptur-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=vedicscriptur-21&l=li2&o=31&a=B07QB1YNWG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## 💻 Built with
 
