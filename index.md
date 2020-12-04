@@ -1,5 +1,5 @@
 <div align="center"><h1>Bhagavad Gita API</h1></div>
-<p align="center"><img alt="Bhagavad Gita API" src="https://raw.githubusercontent.com/vedicscriptures/bhagavad-gita-api/main/docs/gita-logo.jpg" width="300vw"/></p>
+<p align="center"><img alt="Bhagavad Gita API" src="https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679" width="300vw"/></p>
 <p align="center">
 	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/vedicscriptures/bhagavad-gita-api/LICENSE"><img alt="License" src="https://img.shields.io/github/license/vedicscriptures/bhagavad-gita-api.svg?style=flat-square"/></a>
