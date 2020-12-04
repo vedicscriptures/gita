@@ -1,5 +1,5 @@
 <html><head></head><body>
-	<div id="_html" class="markdown-body"><div align="center"><h1>Bhagavad Gita API</h1></div>
+	<div>
 <p align="center"><img alt="Bhagavad Gita API" src="https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679" width="400vw"></p>
 <p align="center">
     <a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"></a>
