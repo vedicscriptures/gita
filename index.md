@@ -24,24 +24,26 @@
 > Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server 
 
 ## 🚀 How to use
+
 <details>
-<summary>1. Homepage</summary>
-- **`URL`**  : `https://vedicscripturesapi.herokuapp.com/`
+	<summary><b>1. Homepage</b></summary>
+
+> landing page
+
+- **`URL`**  : [`https://vedicscripturesapi.herokuapp.com/`](https://vedicscripturesapi.herokuapp.com/)
+
 </details>
 
 <details>
-<summary>2. GET [/gita]</summary>
+	<summary><b>2. GET [/gita]</b></summary>
 
 > GET Random gita Slok(Verse)
 
 - **`URL`** : `https://vedicscripturesapi.herokuapp.com/gita`
 - **`Method`** : `GET` 
+
 <details>
-<summary>
-
-`Response 200 (application/json)`
-
-</summary>
+<summary><i>Response 200 (application/json)</i></summary>
 
 ```json
 {
@@ -142,10 +144,11 @@
   }
 }
 ```
+
 </details>
 </details>
-<details open>
-<summary>GET [/gita/chapters]</summary> 
+<details>
+	<summary><b>GET [/gita/chapters]</b></summary> 
 
 > GET All Chapters details of Shreemad Bhagavad Gita
 
@@ -153,11 +156,8 @@
 - **`Method`** : `GET` 
 
 <details>
-<summary> 
-
-`Response 200 (application/json)`
-
-</summary>
+<summary><i>Response 200 (application/json)</i></summary>
+	
 ```json
 [
   {
@@ -198,7 +198,7 @@
 </details>
 </details>
 <details>
-<summary> 3.[/gita/:ch]</summary>
+	<summary><b>3.[/gita/:ch]</b></summary>
 
 > GET Particular Chapters details of Shreemad Bhagavad Gita
 
@@ -206,11 +206,7 @@
 - **`Attributes`** :
 	- **`:ch`** : `[interger]` specfic chapter number from any of 18 chapters 
 <details>
-<summary>
-
-`Response 200 (application/json)`
-
-</summary>  
+	<summary><i>Response 200 (application/json)`</i></summary>  
 
 ```json
 {
@@ -232,7 +228,7 @@
 </details>
 </details>
 <details>
-<summary>4. GET [/gita/:ch/:sl]</summary>
+	<summary><b>4. GET [/gita/:ch/:sl]</b></summary>
 
 > GET JSON of Slok from Particuler slok & chapter of Shreemad Bhagavad Gita
 
@@ -240,12 +236,9 @@
 - **`Attributes`** :
 	- **`:ch`** : `[interger]` specfic Adhyay(chapter) number from any of 18 chapters 
 	- **`:sl`** : `[interger]` specfic Slok(verse) number avilable in taht particuler `chapter` 
+
 <details>
-<summary>
-
-`Response 200 (application/json)`
-
-</summary>  
+<summary><i>Response 200 (application/json)</i></summary>  
 
 ```json
 {
@@ -349,23 +342,20 @@
 </details>
 </details>
 <details>
-<summary>5. GET [/gita.svg]</summary>
+	<summary><b>5. GET [/gita.svg]</b></summary>
 
 > GET SVG of Random Slok of Shreemad Bhagavad Gita
 
 - **`URL`**  : `https://vedicscripturesapi.herokuapp.com/gita.svg`
 - **`Method`** : `GET`
-<summary>
-
-`Response 200 (image/svg+xml)`**
-
-</summary>
+<summary><i>Response 200 (image/svg+xml)</i></summary>
 
 ![bhagavad Gita img example](https://vedicscripturesapi.herokuapp.com/gita.svg)
+
 </details>
 </details>
 <details>
-<summary>6. GET [/gita.svg?ch={chapter_num}]</summary>
+	<summary><b>6. GET [/gita.svg?ch={chapter_num}]</b></summary>
 
 > GET SVG of Randome Slok from Particuler chapter of Shreemad Bhagavad Gita
 
@@ -373,19 +363,16 @@
 - **`Method`** : `GET` 
 - **`Attributes`** :
   - **`{chapter_num}`** : `[interger]` specfic chapter number from any of 18 chapters 
+  
 <details>
-<summary>
-
-`Response 200 (image/svg+xml)`
-
-</summary>
+	<summary><i>Response 200 (image/svg+xml)</i></summary>
 
 ![bhagavad Gita img example](https://vedicscripturesapi.herokuapp.com/gita.svg?ch=1)
 
 </details>
 </details>
 <details>
-<summary> GET [/gita.svg?ch={chapter_num}&sl={slok_num}]</summary>
+	<summary><b>7. GET [/gita.svg?ch={chapter_num}&sl={slok_num}]</b></summary>
 
 > GET SVG of Slok from Particuler slok & chapter of Shreemad Bhagavad Gita
 
@@ -394,11 +381,7 @@
 - **`Attributes`** :
   - **`Chapter num`** : `[interger]` specfic chapter number from any of 18 chapters 
   - **`Slok num`** : `[interger]` specfic slok number avilable in taht particuler `chapter` 
-<summary>
-
-`Response 200 (image/svg+xml)`**
-
-</summary>
+<summary><i>Response 200 (image/svg+xml)</i></summary>
 
 ![bhagavad Gita img example](https://vedicscripturesapi.herokuapp.com/gita.svg?ch=1&sl=1)
 
