@@ -1,4 +1,4 @@
-<center><h1>Bhagavad Gita API</h1></center>
+<div align="center"><h1>Bhagavad Gita API</h1></div>
 <p align="center"><img alt="Bhagavad Gita API" src="https://raw.githubusercontent.com/vedicscriptures/bhagavad-gita-api/main/docs/gita-logo.jpg" width="300vw"/></p>
 <p align="center">
 	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
@@ -192,7 +192,7 @@
 ```
 </details>
 <details>
-	<summary><b>4. [/gita/:ch]</b></summary>
+	<summary><b>4. GET [/gita/:ch]</b></summary>
 
 > GET Particular Chapters details of Shreemad Bhagavad Gita
 
