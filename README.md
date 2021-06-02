@@ -4,17 +4,21 @@ Bhagavad Gita API
 
 ![Bhagavad Gita API](https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679)
 
+## About
+
+> Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
+
  [![Devloper](https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square)](https://github.com/PtPrashantTripathi) [![License](https://img.shields.io/github/license/vedicscriptures/bhagavad-gita-api.svg?style=flat-square)](https://github.com/vedicscriptures/bhagavad-gita-api/LICENSE) [![Website Status](https://img.shields.io/website/http/ptprashanttripathi.github.io.svg?down_message=Down&up_message=Online&style=flat-square)](https://vedicscriptures.github.io) [![stars-shield](https://img.shields.io/github/stars/vedicscriptures/bhagavad-gita-api.svg?style=flat-square)](https://github.com/vedicscriptures/bhagavad-gita-api/stargazers) [![forks-shield](https://img.shields.io/github/forks/vedicscriptures/bhagavad-gita-api.svg?style=flat-square)](https://github.com/vedicscriptures/bhagavad-gita-api/network/members) [![Total-Downlode](https://img.shields.io/github/downloads/vedicscriptures/bhagavad-gita-api/total.svg?style=flat-square)](https://github.com/vedicscriptures/bhagavad-gita-api/graphs/traffic)
 
  [View Demo](https://vedicscriptures.github.io) · [Report Bug](https://github.com/vedicscriptures/bhagavad-gita-api/issues/new/choose) · [Request Feature](https://github.com/vedicscriptures/bhagavad-gita-api/issues/new/choose)
 
  Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/100) 💸 to help it improve!  
   
- [![Donate](https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate)](https://paypal.me/PtPrashantTripathi) [![Buy Coffee for ptprashanttripathi](https://cdn.ko-fi.com/cdn/kofi3.png?v=2)](https://ko-fi.com/ptprashanttripathi) [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ptprashanttripathi) [![Support Via UPI](https://raw.githubusercontent.com/PtPrashantTripathi/linkpe/main/img/linkpebadge.svg)](https://ptprashanttripathi.github.io/linkpe?pa=pt1998@ybl&pn=Pt.+Prashant+Tripathi)
+ [![Donate](https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate)](https://paypal.me/PtPrashantTripathi)
+ [![Support Via UPI](https://raw.githubusercontent.com/PtPrashantTripathi/linkpe/main/img/linkpebadge.svg)](https://ptprashanttripathi.github.io/linkpe?pa=pt1998@ybl&pn=Pt.+Prashant+Tripathi)
+ [![Buy Coffee for ptprashanttripathi](https://cdn.ko-fi.com/cdn/kofi3.png?v=2)](https://ko-fi.com/ptprashanttripathi)
+ [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ptprashanttripathi) 
 
-## About
-
-> Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 
 ## 🚀 How to use
 
