@@ -24,9 +24,11 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 4. GET [/chapter/:ch](api-reference/get-chapter.md)
 5. GET [/gita.svg](api-reference/get-gita.svg.md)
 
-## :lock: API key
+## 💡 API key
 
-> A new Authentication Feature :bulb: introduced in our Bhagavad Gita API. [Get your license now for free](https://docs.bhagavadgitaapi.in/pricing).
+{% hint style="info" %}
+A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://bhagavadgitaapi.in/pricing](https://bhagavadgitaapi.in/pricing) and  Get your license now for free. 
+{% endhint %}
 
 ## 💻 Built with
 
