@@ -38,8 +38,8 @@ specfic slok number avilable in taht particuler
 {% api-method-response-example-description %}
 successfully retrieved.
 {% endapi-method-response-example-description %}
-![](https://instagram.fidr3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/129738801_403477617629742_1762660810707419049_n.jpg?tp=1&_nc_ht=instagram.fidr3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=uN_39EIFJ_oAX9D-IL7&edm=AP_V10EBAAAA&ccb=7-4&oh=3d31cbb9305a16d057d0f928522db038&oe=60BD4663&_nc_sid=4f375e)
 {% endapi-method-response-example %}
+![](https://instagram.fidr3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/129738801_403477617629742_1762660810707419049_n.jpg?tp=1&_nc_ht=instagram.fidr3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=uN_39EIFJ_oAX9D-IL7&edm=AP_V10EBAAAA&ccb=7-4&oh=3d31cbb9305a16d057d0f928522db038&oe=60BD4663&_nc_sid=4f375e)
 
 {% api-method-response-example httpCode=404 %}
 {% api-method-response-example-description %}
