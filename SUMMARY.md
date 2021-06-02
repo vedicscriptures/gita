@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bhagavad Gita Api](README.md)
+* [About](README.md)
 * [Pricing](pricing.md)
 * [Terms & Conditions](terms-and-conditions.md)
 * [Privacy Policy](privacy-policy.md)
@@ -13,3 +13,4 @@
 * [GET /chapters](api-reference/get-chapters.md)
 * [GET /chapter/:ch](api-reference/get-chapter.md)
 * [GET /gita.svg](api-reference/get-gita.svg.md)
+

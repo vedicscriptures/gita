@@ -4,17 +4,17 @@ description: Plans & Pricing
 
 # Pricing
 
-## The Bhagavad Gita.
+## The Bhagavad Gita API
 
 A public service Bhagavad Gita API is A lightweight Rest API, free to use when making your fancy new App, Website or Service. [Get your license now.](pricing.md#pricing)
 
-### Pricing
+## Pricing
 
 ### Free plan
 
-### ₹ 0
+#### [₹ 0](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
-No hidden costs
+> No hidden costs
 
 Free for you to use on your non-monetized app [SIGNUP FOR FREE](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
@@ -25,9 +25,9 @@ Free for you to use on your non-monetized app [SIGNUP FOR FREE](https://docs.goo
 
 ### **Paid Plans**
 
-### ₹ 251
+### [₹ 251](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
-Required if you charge for access to the application using the Bhagavad gita API [**GET STARTED**](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)\*\*\*\*
+Required if you charge for access to the application using the Bhagavad gita API [**GET STARTED**](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 * 30,000 requests / month
 * Free Code Samples
@@ -37,7 +37,7 @@ Required if you charge for access to the application using the Bhagavad gita API
 
 ### **Enterprise**
 
-#### As you wish Plan
+#### [As you wish Plan](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 Be spoke pricing tall us about your scaling needs [CONTACT US](mailto:vedic.scriptures@outlook.com)
 

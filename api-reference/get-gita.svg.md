@@ -50,7 +50,9 @@ Could not find a matching this query.
 {% endapi-method-spec %}
 {% endapi-method %}
 
-> response \(200 ok\)
+{% hint style="success" %}
+response \(200 ok\)
+{% endhint %}
 
 ![shrimad bhagwat geeta adhyay 1 shlok 1](../.gitbook/assets/gita.svg)
 

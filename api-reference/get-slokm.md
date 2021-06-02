@@ -15,20 +15,21 @@ GET data from Particuler slok & chapter of Shreemad Bhagavad Gita
 
 {% api-method-spec %}
 {% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name=":ch" type="integer" %}
+specfic chapter number from any of 18 chapters
+{% endapi-method-parameter %}
+
+{% api-method-parameter name=":sl" type="integer" %}
+specfic slok number from that chapter
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+
 {% api-method-headers %}
 {% api-method-parameter name="x-api-key" type="string" required=false %}
 Authentication token to track down who is emptying our stocks.
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
-
-{% api-method-path-parameters %}
-{% api-method-parameter name=":ch" type="integer" %}
-specfic chapter number from any of 18 chapters
-{% endapi-method-parameter %}
-{% api-method-parameter name=":sl" type="integer" %}
-specfic slok number from that chapter
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
 
 {% api-method-query-parameters %}
 {% api-method-parameter type="string" name="api\_key" %}
@@ -43,7 +44,7 @@ Alternate way to send Authentication token
 successfully retrieved.
 {% endapi-method-response-example-description %}
 
-```json
+```javascript
 {
   "_id": "BG1.1",
   "chapter": 1,
@@ -142,7 +143,6 @@ successfully retrieved.
   }
 }
 ```
-
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=404 %}

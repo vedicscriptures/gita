@@ -6,15 +6,15 @@ description: Privacy Policy
 
 ## The Privacy Policy
 
-#### 1. Sharing data
+### 1. Sharing data
 
 We never share your personal data.
 
-#### 2. Storing data
+### 2. Storing data
 
 We only store the bare data needed to function properly.
 
-**Your e-mail address**
+#### **Your e-mail address**
 
 Your address will only be used:
 
@@ -27,15 +27,15 @@ Your address will only be used:
 
 It will never be shared with anyone.
 
-**Sub\_id’s**
+#### **Sub\_id’s**
 
 Adding a value for the sub\_id parameter to API requests allows you to filter your subsequent API requests by that value, Please do not use any personally identifiable information. Whilst I encrypt it where possible, I can however not be held liable for its protection between you and the API. e.g. if used as a GET parameter it could be seen in transit between your request and our endpoints.
 
-**IP anonymization**
+#### **IP anonymization**
 
 The client IP Address is logged on every request to the API. This is used to prevent malicious use of the API such as denial of service attacks, prevent duplication of Votes, and to provide a rough estimate on the city from which the request originates. After 1 month the IP address is anonymized.
 
-#### 3. Deleting data
+### 3. Deleting data
 
 If you would like to delete your account, until I add a delete page you can email me personally \(vedic.scriptures@outlook.com\) and i will action it. Once actioned there are no backsies, all images and data will be deleted. Please keep your API keys and authentication details secure. I’m sorry, but this is not reversible.
 

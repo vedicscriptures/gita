@@ -8,13 +8,13 @@ description: Terms & Conditions
 
 We welcome all developers to use our API and use it in their apps, platforms and services free of charge, as long as they comply with the following Terms of Service.
 
-**1. Privacy & Security**
+### **1. Privacy & Security**
 
 1.1. All developers must guard their API keys and authentication details, as well as those of their users' privacy with utmost care.
 
 1.2. It is forbidden to use API for malicious intent, purposefully cause damage the API, or attempt to gain unauthorized data from or use of other accounts.
 
-**2. Transparency**
+### **2. Transparency**
 
 2.1. You must obtain your own account for your application.
 
@@ -24,7 +24,7 @@ We welcome all developers to use our API and use it in their apps, platforms and
 
 2.4. You must not use the official API logo for your app logo.
 
-**3. Advertising & Monetization**
+### **3. Advertising & Monetization**
 
 3.1. Developers are allowed to monetize their coding efforts through advertising or other legitimate means.
 
@@ -32,11 +32,11 @@ We welcome all developers to use our API and use it in their apps, platforms and
 
 3.3. We offer our API free of charge, but if you monetise it your users must be aware of the fact that your app uses the The Bhagavad Gita API. This fact must be featured prominently in the app's description in the app stores and in the in-app intro & about page if your app has it.
 
-**4. Service**
+### **4. Service**
 
 4.1. You accept that we make no guarantees about the quality of, or uptime of API.
 
-**5. Breach of terms**
+### **5. Breach of terms**
 
 5.1. If your app violates these terms, we will notify the API account responsible for the app about the breach of terms.
 

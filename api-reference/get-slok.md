@@ -1,3 +1,7 @@
+---
+description: This endpoint allows you to get randomly genrated gita sloks.
+---
+
 # GET /slok
 
 {% api-method method="get" host="https://bhagavadgitaapi.in" path="/slok" %}
