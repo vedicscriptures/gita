@@ -1,6 +1,5 @@
 ---
-description: >-
-  If you don’t have an API Key, just head over to
+description: If you don’t have an API Key, just head over to
   https://bhagavadgitaapi.in/pricing and get one for free
 ---
 
