@@ -24,6 +24,10 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 4. GET [/chapter/:ch](api-reference/get-chapter.md)
 5. GET [/gita.svg](api-reference/get-gita.svg.md)
 
+## :lock: API key
+
+> A new Authentication Feature :bulb: introduced in our Bhagavad Gita API. [Get your license now for free](https://docs.bhagavadgitaapi.in/pricing).
+
 ## 💻 Built with
 
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Heroko](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
