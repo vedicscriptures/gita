@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Bhagavad Gita API](README.md)
 * [Pricing](pricing.md)
 * [Terms & Conditions](terms-and-conditions.md)
 * [Privacy Policy](privacy-policy.md)

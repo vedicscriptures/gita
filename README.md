@@ -2,7 +2,7 @@
 description: Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 ---
 
-# About
+# Bhagavad Gita API
 
 ![Bhagavad Gita API](https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679)
 
@@ -27,7 +27,7 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 ## 💡 API key
 
 {% hint style="info" %}
-A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://bhagavadgitaapi.in/pricing](https://bhagavadgitaapi.in/pricing) and  Get your license now for free. 
+A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://docs.bhagavadgitaapi.in/pricing](pricing.md) and Get your license now for free. 
 {% endhint %}
 
 ## 💻 Built with
