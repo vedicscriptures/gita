@@ -38,9 +38,9 @@ A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you d
 
 [![](https://avatars.githubusercontent.com/u/26687933?v=4&s=48)@ptprashanttripathi](https://github.com/ptprashanttripathi)
 
-## 🙏 Support ✨
+## 🙏 Support 
 
-[![Donate](https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate)![Support Via UPI](https://raw.githubusercontent.com/PtPrashantTripathi/linkpe/main/img/linkpebadge.svg)![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)![Buy Coffee for ptprashanttripathi](https://cdn.ko-fi.com/cdn/kofi3.png?v=2)](https://paypal.me/PtPrashantTripathi)
+ [![](https://cdn.ko-fi.com/cdn/kofi3.png?v=2)](https://ko-fi.com/ptprashanttripathi)  ![](https://cdn.buymeacoffee.com/buttons/default-orange.png)  [![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahrtlb39yj54e4z96e96.png)](https://paypal.me/PtPrashantTripathi)  ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg)
 
 ## Questions and Feedback
 
