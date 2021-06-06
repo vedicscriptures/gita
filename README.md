@@ -26,7 +26,9 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 
 ## 💡 API key
 
-> A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://docs.bhagavadgitaapi.in/pricing](pricing.md) and Get your license now for free. 
+{% hint style="info" %}
+A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://docs.bhagavadgitaapi.in/pricing](pricing.md) and Get your license now for free. 
+{% endhint %}
 
 ## 💻 Built with
 
