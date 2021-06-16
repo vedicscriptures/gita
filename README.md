@@ -27,7 +27,7 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 ## 💡 API key
 
 {% hint style="info" %}
-A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://docs.bhagavadgitaapi.in/pricing](pricing.md) and Get your license now for free. 
+A new 🔒 Authentication Feature introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://docs.bhagavadgitaapi.in/pricing](pricing.md) and Get your license now for free.
 {% endhint %}
 
 ## 💻 Built with
@@ -38,9 +38,9 @@ A new 🔒 Authentication Feature  introduced in our Bhagavad Gita API. if you d
 
 [![](https://avatars.githubusercontent.com/u/26687933?v=4&s=48)@ptprashanttripathi](https://github.com/ptprashanttripathi)
 
-## 🙏 Support 
+## 🙏 Support
 
- [![](https://cdn.ko-fi.com/cdn/kofi3.png?v=2)](https://ko-fi.com/ptprashanttripathi)  ![](https://cdn.buymeacoffee.com/buttons/default-orange.png)  [![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahrtlb39yj54e4z96e96.png)](https://paypal.me/PtPrashantTripathi)  ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg)
+[![](https://cdn.ko-fi.com/cdn/kofi3.png?v=2)](https://ko-fi.com/ptprashanttripathi) ![](https://cdn.buymeacoffee.com/buttons/default-orange.png) [![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahrtlb39yj54e4z96e96.png)](https://paypal.me/PtPrashantTripathi) ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg)
 
 ## Questions and Feedback
 

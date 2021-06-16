@@ -4,7 +4,7 @@ description: GET data from Particuler slok & chapter of Shreemad Bhagavad Gita
 
 # GET /slok/:ch/:sl
 
-{% api-method method="get" host="https://bhagavadgitaapi.in" path="/chapter/:ch" %}
+{% api-method method="get" host="https://bhagavadgitaapi.in" path="/chapter/:ch/:sl" %}
 {% api-method-summary %}
 /slok/:ch/:sl
 {% endapi-method-summary %}
