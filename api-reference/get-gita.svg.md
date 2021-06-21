@@ -26,11 +26,11 @@ Authentication token to track down who is emptying our stocks.
 Alternate way to send Authentication token
 {% endapi-method-parameter %}
 
-{% api-method-parameter type="integer" name="chapter\_num" %}
+{% api-method-parameter type="integer" name="ch" %}
 specfic chapter number from any of 18 chapters
 {% endapi-method-parameter %}
 
-{% api-method-parameter type="integer" name="slok\_num" %}
+{% api-method-parameter type="integer" name="sl" %}
 specfic slok number avilable in taht particuler
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
