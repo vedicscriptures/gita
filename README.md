@@ -1,5 +1,5 @@
 ---
-description: Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
+description: Bhagavad-Gita-API is An opensource lightweight Node.js based rest API on Vedic Scripture Shrimad Bhagavad Gita
 ---
 
 # Bhagavad Gita API
