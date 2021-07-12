@@ -30,6 +30,10 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 A new 🔒 Authentication Feature introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://docs.bhagavadgitaapi.in/pricing](pricing.md) and Get your license now for free.
 {% endhint %}
 
+Take a look at this video:
+
+{% youtube src="https://www.youtube.com/watch?v=UmT9dUUCqm8" %}{% endyoutube %}
+
 ## 💻 Built with
 
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Heroko](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
