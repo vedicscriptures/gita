@@ -25,7 +25,7 @@ Free for you to use on your non-monetized app [SIGNUP FOR FREE](https://docs.goo
 
 ### **Paid Plans**
 
-### [₹ 251](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
+### [₹ 251 per year](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 Required if you charge for access to the application using the Bhagavad gita API [**GET STARTED**](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
