@@ -26,7 +26,7 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 
 Tutorial:
 
-{% youtube src="https://youtu.be/1OVXdkFoKIg" %}{% endyoutube %}
+{% youtube src="https://www.youtube.com/watch?v=1OVXdkFoKIg" %}{% endyoutube %}
 
 ## 💡 API key
 
