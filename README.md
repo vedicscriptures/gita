@@ -24,6 +24,10 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 4. GET [/chapter/:ch](api-reference/get-chapter.md)
 5. GET [/gita.svg](api-reference/get-gita.svg.md)
 
+Tutorial:
+
+{% youtube src="https://youtu.be/1OVXdkFoKIg" %}{% endyoutube %}
+
 ## 💡 API key
 
 {% hint style="info" %}
