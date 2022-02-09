@@ -6,17 +6,18 @@ description: Plans & Pricing
 
 ## The Bhagavad Gita API
 
-A public service Bhagavad Gita API is A lightweight Rest API, free to use when making your fancy new App, Website or Service. [Get your license now.](pricing.md#pricing)
+A public service Bhagavad Gita API is A lightweight Rest API, free to use when making your fancy new App, Website or Service. [Get your license now.](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 ## Pricing
 
-### Free plan
+### [Free plan](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 #### [₹ 0](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 > No hidden costs
 
-Free for you to use on your non-monetized app [SIGNUP FOR FREE](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
+Free for you to use on your non-monetized app 
+[👉 Click Here to Signup For Free](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 * 1500 requests / month
 * Free Code Samples
