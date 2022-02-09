@@ -17,6 +17,7 @@ A public service Bhagavad Gita API is A lightweight Rest API, free to use when m
 > No hidden costs
 
 Free for you to use on your non-monetized app 
+
 [👉 Click Here to Signup For Free](https://docs.google.com/forms/d/e/1FAIpQLSe6Q8rxWo3XRh5u58Hs2_-CVe1HnAIynNV8BPwe9KmEeBZaWQ/viewform)
 
 * 1500 requests / month
