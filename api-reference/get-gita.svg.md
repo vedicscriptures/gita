@@ -4,36 +4,55 @@ description: GET random or perticular slok Image of Shreemad Bhagavad Gita
 
 # GET /gita.svg
 
-{% swagger baseUrl="https://bhagavadgitaapi.in" path="/gita.svg" method="get" summary="/gita.svg" %}
-{% swagger-description %}
+{% api-method method="get" host="https://bhagavadgitaapi.in" path="/gita.svg" %}
+{% api-method-summary %}
+/gita.svg
+{% endapi-method-summary %}
+
+{% api-method-description %}
 This endpoint allows you to get any random or perticular slok Image of Shreemad Bhagavad Gita
-{% endswagger-description %}
+{% endapi-method-description %}
 
-{% swagger-parameter in="query" name="ch" type="integer" %}
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-headers %}
+{% api-method-parameter name="x-api-key" type="string" required=false %}
+Authentication token to track down who is emptying our stocks.
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+
+{% api-method-query-parameters %}
+{% api-method-parameter type="string" name="api\_key" %}
+Alternate way to send Authentication token
+{% endapi-method-parameter %}
+
+{% api-method-parameter type="integer" name="ch" %}
 specfic chapter number from any of 18 chapters
-{% endswagger-parameter %}
+{% endapi-method-parameter %}
 
-{% swagger-parameter in="query" name="sl" type="integer" %}
+{% api-method-parameter type="integer" name="sl" %}
 specfic slok number avilable in taht particuler
-{% endswagger-parameter %}
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
+{% endapi-method-request %}
 
-{% swagger-response status="200: OK" description="" %}
-```javascript
-{
-    // Response
-}
-```
-{% endswagger-response %}
+{% api-method-response %}
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Could not find a matching this query.
+{% endapi-method-response-example-description %}
 
-{% swagger-response status="404" description="Could not find a matching this query." %}
-```
+```text
 { error: 'Internal Server Error'}
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
 
 {% hint style="success" %}
-response (200 ok)
+response \(200 ok\)
 {% endhint %}
 
 ![shrimad bhagwat geeta adhyay 1 shlok 1](../.gitbook/assets/gita.svg)
+

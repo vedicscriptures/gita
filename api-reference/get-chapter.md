@@ -4,17 +4,43 @@ description: GET Particular Chapters details of Shreemad Bhagavad Gita
 
 # GET /chapter/:ch
 
-{% swagger baseUrl="https://bhagavadgitaapi.in" path="/chapter/:ch" method="get" summary="/chapter/:ch" %}
-{% swagger-description %}
+{% api-method method="get" host="https://bhagavadgitaapi.in" path="/chapter/:ch" %}
+{% api-method-summary %}
+/chapter/:ch
+{% endapi-method-summary %}
+
+{% api-method-description %}
 GET Particular Chapters details of Shreemad Bhagavad Gita
-{% endswagger-description %}
+{% endapi-method-description %}
 
-{% swagger-parameter in="path" name=":ch" type="integer" %}
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name=":ch" type="integer" %}
 specfic chapter number from any of 18 chapters
-{% endswagger-parameter %}
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
 
-{% swagger-response status="200" description="successfully retrieved." %}
-```
+{% api-method-headers %}
+{% api-method-parameter name="x-api-key" type="string" required=false %}
+Authentication token to track down who is emptying our stocks.
+{% endapi-method-parameter %}
+{% endapi-method-headers %}
+
+{% api-method-query-parameters %}
+{% api-method-parameter type="string" name="api\_key" %}
+Alternate way to send Authentication token
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+successfully retrieved.
+{% endapi-method-response-example-description %}
+
+```text
 {
   "chapter_number": 1,
   "verses_count": 47,
@@ -31,11 +57,18 @@ specfic chapter number from any of 18 chapters
   }
 }
 ```
-{% endswagger-response %}
+{% endapi-method-response-example %}
 
-{% swagger-response status="404" description="Could not find a matching this query." %}
-```
+{% api-method-response-example httpCode=404 %}
+{% api-method-response-example-description %}
+Could not find a matching this query.
+{% endapi-method-response-example-description %}
+
+```text
 { error: 'Internal Server Error'}
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
