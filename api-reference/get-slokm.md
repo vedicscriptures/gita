@@ -4,46 +4,20 @@ description: GET data from Particuler slok & chapter of Shreemad Bhagavad Gita
 
 # GET /slok/:ch/:sl
 
-{% api-method method="get" host="https://bhagavadgitaapi.in" path="/slok/:ch/:sl" %}
-{% api-method-summary %}
-/slok/:ch/:sl
-{% endapi-method-summary %}
-
-{% api-method-description %}
+{% swagger baseUrl="https://bhagavadgitaapi.in" path="/slok/:ch/:sl" method="get" summary="/slok/:ch/:sl" %}
+{% swagger-description %}
 GET data from Particuler slok & chapter of Shreemad Bhagavad Gita
-{% endapi-method-description %}
+{% endswagger-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name=":ch" type="integer" %}
+{% swagger-parameter in="path" name=":ch" type="integer" %}
 specfic chapter number from any of 18 chapters
-{% endapi-method-parameter %}
+{% endswagger-parameter %}
 
-{% api-method-parameter name=":sl" type="integer" %}
+{% swagger-parameter in="path" name=":sl" type="integer" %}
 specfic slok number from that chapter
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+{% endswagger-parameter %}
 
-{% api-method-headers %}
-{% api-method-parameter name="x-api-key" type="string" required=false %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
-
-{% api-method-query-parameters %}
-{% api-method-parameter type="string" name="api\_key" %}
-Alternate way to send Authentication token
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-successfully retrieved.
-{% endapi-method-response-example-description %}
-
+{% swagger-response status="200" description="successfully retrieved." %}
 ```javascript
 {
   "_id": "BG1.1",
@@ -143,18 +117,11 @@ successfully retrieved.
   }
 }
 ```
-{% endapi-method-response-example %}
+{% endswagger-response %}
 
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a matching this query.
-{% endapi-method-response-example-description %}
-
-```text
+{% swagger-response status="404" description="Could not find a matching this query." %}
+```
 { error: 'Internal Server Error'}
 ```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
+{% endswagger-response %}
+{% endswagger %}
