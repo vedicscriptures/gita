@@ -3,4 +3,4 @@
 <h3>यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः |<br/>दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||</h3>
 <pre>yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ .<br/>dīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam ||17-21||</pre>
 <p>।।17.21।। और जो दान क्लेशपूर्वक तथा प्रत्युपकार के उद्देश्य से अथवा फल की कामना रखकर दिया जाता हैं, वह दान राजस माना गया है।।</p>
-<pre>(Bhagavad Gita, Chapter 17, Shloka 21) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../17/20">⏪  BG-17.20</a><b>        ।।        </b><a href="../../17/22">BG-17.22  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 17, Shloka 21) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../17/20">⏪  BG-17.20</a><b>        ।।        </b><a href="../../17/22">BG-17.22  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>श्रीभगवानुवाच |<br/>अनाश्रितः कर्मफलं कार्यं कर्म करोति यः |<br/>स संन्यासी च योगी च न निरग्निर्न चाक्रियः ||६-१||</h3>
 <pre>śrībhagavānuvāca .<br/>anāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ .<br/>sa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ ||6-1||</pre>
 <p>।।6.1।। श्रीभगवान् ने कहा -- जो पुरुष कर्मफल पर आश्रित न होकर कर्तव्य कर्म करता है, वह संन्यासी और योगी है, न कि वह जिसने केवल अग्नि का और क्रियायों का त्याग किया है।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 1) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/29">⏪  BG-5.29</a><b>        ।।        </b><a href="../../6/2">BG-6.2  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 1) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/29">⏪  BG-5.29</a><b>        ।।        </b><a href="../../6/2">BG-6.2  ⏩</a></center>

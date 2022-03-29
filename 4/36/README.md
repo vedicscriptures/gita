@@ -3,4 +3,4 @@
 <h3>अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः |<br/>सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ||४-३६||</h3>
 <pre>api cedasi pāpebhyaḥ sarvebhyaḥ pāpakṛttamaḥ .<br/>sarvaṃ jñānaplavenaiva vṛjinaṃ santariṣyasi ||4-36||</pre>
 <p>।।4.36।। यदि तुम सब पापियों से भी अधिक पाप करने वाले हो,  तो भी ज्ञानरूपी नौका द्वारा,  निश्चय ही सम्पूर्ण पापों का तुम संतरण कर जाओगे।।</p>
-<pre>(Bhagavad Gita, Chapter 4, Shloka 36) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/35">⏪  BG-4.35</a><b>        ।।        </b><a href="../../4/37">BG-4.37  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 4, Shloka 36) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/35">⏪  BG-4.35</a><b>        ।।        </b><a href="../../4/37">BG-4.37  ⏩</a></center>

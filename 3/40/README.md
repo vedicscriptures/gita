@@ -3,4 +3,4 @@
 <h3>इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते |<br/>एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ||३-४०||</h3>
 <pre>indriyāṇi mano buddhirasyādhiṣṭhānamucyate .<br/>etairvimohayatyeṣa jñānamāvṛtya dehinam ||3-40||</pre>
 <p>।।3.40।। इन्द्रियाँ,  मन और बुद्धि इसके निवास स्थान कहे जाते हैं;  यह काम इनके द्वारा ही ज्ञान को आच्छादित करके देही पुरुष को मोहित करता है।।</p>
-<pre>(Bhagavad Gita, Chapter 3, Shloka 40) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/39">⏪  BG-3.39</a><b>        ।।        </b><a href="../../3/41">BG-3.41  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 3, Shloka 40) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/39">⏪  BG-3.39</a><b>        ।।        </b><a href="../../3/41">BG-3.41  ⏩</a></center>

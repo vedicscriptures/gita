@@ -3,4 +3,4 @@
 <h3>सञ्जय उवाच |<br/>तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् |<br/>विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ||२-१||</h3>
 <pre>sañjaya uvāca .<br/>taṃ tathā kṛpayāviṣṭamaśrupūrṇākulekṣaṇam .<br/>viṣīdantamidaṃ vākyamuvāca madhusūdanaḥ ||2-1||</pre>
 <p>।।2.1।। संजय ने कहा -- इस प्रकार करुणा और विषाद से अभिभूत,  अश्रुपूरित नेत्रों वाले आकुल अर्जुन से मधुसूदन ने यह वाक्य कहा।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 1) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/47">⏪  BG-1.47</a><b>        ।।        </b><a href="../../2/2">BG-2.2  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 1) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/47">⏪  BG-1.47</a><b>        ।।        </b><a href="../../2/2">BG-2.2  ⏩</a></center>

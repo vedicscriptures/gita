@@ -3,4 +3,4 @@
 <h3>यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः |<br/>प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||</h3>
 <pre>yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ .<br/>pretānbhūtagaṇāṃścānye yajante tāmasā janāḥ ||17-4||</pre>
 <p>।।17.4।। सात्त्विक पुरुष देवताओं को पूजते हैं और राजस लोग यक्ष और राक्षसों को, तथा अन्य तामसी जन प्रेत और भूतगणों को पूजते हैं।।</p>
-<pre>(Bhagavad Gita, Chapter 17, Shloka 4) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../17/3">⏪  BG-17.3</a><b>        ।।        </b><a href="../../17/5">BG-17.5  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 17, Shloka 4) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../17/3">⏪  BG-17.3</a><b>        ।।        </b><a href="../../17/5">BG-17.5  ⏩</a></center>

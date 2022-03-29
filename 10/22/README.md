@@ -3,4 +3,4 @@
 <h3>वेदानां सामवेदोऽस्मि देवानामस्मि वासवः |<br/>इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||</h3>
 <pre>vedānāṃ sāmavedo.asmi devānāmasmi vāsavaḥ .<br/>indriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ||10-22||</pre>
 <p>।।10.22।। मैं वेदों में सामवेद हूँ, देवों में वासव (इन्द्र) हूँ; मैं इन्द्रियों में मन और भूतप्राणियों में चेतना (ज्ञानशक्ति) हूँ।।</p>
-<pre>(Bhagavad Gita, Chapter 10, Shloka 22) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/21">⏪  BG-10.21</a><b>        ।।        </b><a href="../../10/23">BG-10.23  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 10, Shloka 22) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/21">⏪  BG-10.21</a><b>        ।।        </b><a href="../../10/23">BG-10.23  ⏩</a></center>

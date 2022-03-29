@@ -3,4 +3,4 @@
 <h3>ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते |<br/>सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ||२-६२||</h3>
 <pre>dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate .<br/>saṅgātsañjāyate kāmaḥ kāmātkrodho.abhijāyate ||2-62||</pre>
 <p>।।2.62।। विषयों का चिन्तन करने वाले पुरुष की उसमें आसक्ति हो जाती है? आसक्ति से इच्छा और इच्छा से क्रोध उत्पन्न होता है।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 62) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/61">⏪  BG-2.61</a><b>        ।।        </b><a href="../../2/63">BG-2.63  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 62) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/61">⏪  BG-2.61</a><b>        ।।        </b><a href="../../2/63">BG-2.63  ⏩</a></center>

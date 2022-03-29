@@ -3,4 +3,4 @@
 <h3>यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |<br/>तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||</h3>
 <pre>yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram .<br/>taṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ ||8-6||</pre>
 <p>।।8.6।। हे कौन्तेय ! (यह जीव) अन्तकाल में जिस किसी भी भाव को स्मरण करता हुआ शरीर को त्यागता है, वह सदैव उस भाव के चिन्तन के फलस्वरूप उसी भाव को ही प्राप्त होता है।।</p>
-<pre>(Bhagavad Gita, Chapter 8, Shloka 6) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/5">⏪  BG-8.5</a><b>        ।।        </b><a href="../../8/7">BG-8.7  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 8, Shloka 6) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/5">⏪  BG-8.5</a><b>        ।।        </b><a href="../../8/7">BG-8.7  ⏩</a></center>

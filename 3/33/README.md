@@ -3,4 +3,4 @@
 <h3>सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि |<br/>प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ||३-३३||</h3>
 <pre>sadṛśaṃ ceṣṭate svasyāḥ prakṛterjñānavānapi .<br/>prakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati ||3-33||</pre>
 <p>।।3.33।। ज्ञानवान् पुरुष भी अपनी प्रकृति के अनुसार चेष्टा करता है। सभी प्राणी अपनी प्रकृति पर ही जाते हैं, फिर इनमें (किसी का) निग्रह क्या करेगा।।</p>
-<pre>(Bhagavad Gita, Chapter 3, Shloka 33) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/32">⏪  BG-3.32</a><b>        ।।        </b><a href="../../3/34">BG-3.34  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 3, Shloka 33) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/32">⏪  BG-3.32</a><b>        ।।        </b><a href="../../3/34">BG-3.34  ⏩</a></center>

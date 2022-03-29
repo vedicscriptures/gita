@@ -3,4 +3,4 @@
 <h3>अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः |<br/>शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते ||१३-३२||</h3>
 <pre>anāditvānnirguṇatvātparamātmāyamavyayaḥ .<br/>śarīrastho.api kaunteya na karoti na lipyate ||13-32||</pre>
 <p>।।13.32।। हे कौन्तेय ! अनादि और निर्गुण होने से यह परमात्मा अव्यय है। शरीर में स्थित हुआ भी, वस्तुत:, वह न (कर्म) करता है और न (फलों से) लिप्त होता है।।</p>
-<pre>(Bhagavad Gita, Chapter 13, Shloka 32) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/31">⏪  BG-13.31</a><b>        ।।        </b><a href="../../13/33">BG-13.33  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 13, Shloka 32) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/31">⏪  BG-13.31</a><b>        ।।        </b><a href="../../13/33">BG-13.33  ⏩</a></center>

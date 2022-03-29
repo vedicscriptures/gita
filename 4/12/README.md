@@ -3,4 +3,4 @@
 <h3>काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः |<br/>क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ||४-१२||</h3>
 <pre>kāṅkṣantaḥ karmaṇāṃ siddhiṃ yajanta iha devatāḥ .<br/>kṣipraṃ hi mānuṣe loke siddhirbhavati karmajā ||4-12||</pre>
 <p>।।4.12।। (सामान्य मनुष्य) यहाँ (इस लोक में) कर्मों के फल को चाहते हुये देवताओं को पूजते हैं;  क्योंकि मनुष्य लोक में कर्मों के फल शीघ्र ही प्राप्त होते हैं।।</p>
-<pre>(Bhagavad Gita, Chapter 4, Shloka 12) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/11">⏪  BG-4.11</a><b>        ।।        </b><a href="../../4/13">BG-4.13  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 4, Shloka 12) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/11">⏪  BG-4.11</a><b>        ।।        </b><a href="../../4/13">BG-4.13  ⏩</a></center>

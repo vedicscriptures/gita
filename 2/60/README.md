@@ -3,4 +3,4 @@
 <h3>यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः |<br/>इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ||२-६०||</h3>
 <pre>yatato hyapi kaunteya puruṣasya vipaścitaḥ .<br/>indriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||2-60||</pre>
 <p>।।2.60।। हे कौन्तेय  (संयम का) प्रयत्न करते हुए बुद्धिमान (विपश्चित) पुरुष के भी मन को ये इन्द्रियां बलपूर्वक हर लेती हैं।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 60) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/59">⏪  BG-2.59</a><b>        ।।        </b><a href="../../2/61">BG-2.61  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 60) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/59">⏪  BG-2.59</a><b>        ।।        </b><a href="../../2/61">BG-2.61  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |<br/>इति मां योऽभिजानाति कर्मभिर्न स बध्यते ||४-१४||</h3>
 <pre>na māṃ karmāṇi limpanti na me karmaphale spṛhā .<br/>iti māṃ yo.abhijānāti karmabhirna sa badhyate ||4-14||</pre>
 <p>।।4.14।। कर्म मुझे लिप्त नहीं करते;  न मुझे कर्मफल में स्पृहा है। इस प्रकार मुझे जो जानता है, वह भी कर्मों से नहीं बन्धता है।।</p>
-<pre>(Bhagavad Gita, Chapter 4, Shloka 14) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/13">⏪  BG-4.13</a><b>        ।।        </b><a href="../../4/15">BG-4.15  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 4, Shloka 14) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/13">⏪  BG-4.13</a><b>        ।।        </b><a href="../../4/15">BG-4.15  ⏩</a></center>

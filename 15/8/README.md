@@ -3,4 +3,4 @@
 <h3>शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः |<br/>गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||</h3>
 <pre>śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ .<br/>gṛhitvaitāni saṃyāti vāyurgandhānivāśayāt ||15-8||</pre>
 <p>।।15.8।। जब (देहादि का) ईश्वर (जीव) (एक शरीर से) उत्क्रमण करता है, तब इन (इन्द्रियों और मन) को ग्रहण कर अन्य शरीर में इस प्रकार ले जाता है, जैसे गन्ध के आश्रय (फूलादि) से गन्ध को वायु ले जाता है।।</p>
-<pre>(Bhagavad Gita, Chapter 15, Shloka 8) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../15/7">⏪  BG-15.7</a><b>        ।।        </b><a href="../../15/9">BG-15.9  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 15, Shloka 8) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../15/7">⏪  BG-15.7</a><b>        ।।        </b><a href="../../15/9">BG-15.9  ⏩</a></center>

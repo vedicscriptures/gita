@@ -3,4 +3,4 @@
 <h3>ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः |<br/>तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ||५-१६||</h3>
 <pre>jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ .<br/>teṣāmādityavajjñānaṃ prakāśayati tatparam ||5-16||</pre>
 <p>।।5.16।। परन्तु जिनका वह अज्ञान आत्मज्ञान से नष्ट हो जाता है,  उनके लिए वह ज्ञान,  सूर्य के सदृश,  परमात्मा को प्रकाशित करता है।।</p>
-<pre>(Bhagavad Gita, Chapter 5, Shloka 16) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/15">⏪  BG-5.15</a><b>        ।।        </b><a href="../../5/17">BG-5.17  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 5, Shloka 16) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/15">⏪  BG-5.15</a><b>        ।।        </b><a href="../../5/17">BG-5.17  ⏩</a></center>

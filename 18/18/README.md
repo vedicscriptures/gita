@@ -3,4 +3,4 @@
 <h3>ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |<br/>करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||१८-१८||</h3>
 <pre>jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā .<br/>karaṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ ||18-18||</pre>
 <p>।।18.18।। ज्ञान, ज्ञेय और परिज्ञाता ये त्रिविध कर्म प्रेरक हैं, और, करण, कर्म. कर्ता ये त्रिविध कर्म संग्रह हैं।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 18) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/17">⏪  BG-18.17</a><b>        ।।        </b><a href="../../18/19">BG-18.19  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 18) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/17">⏪  BG-18.17</a><b>        ।।        </b><a href="../../18/19">BG-18.19  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् |<br/>तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ||२-३७||</h3>
 <pre>hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm .<br/>tasmāduttiṣṭha kaunteya yuddhāya kṛtaniścayaḥ ||2-37||</pre>
 <p>।।2.37।। युद्ध में मरकर तुम स्वर्ग प्राप्त करोगे या जीतकर पृथ्वी को भोगोगे;  इसलिय, हे कौन्तेय ! युद्ध का निश्चय कर तुम खड़े हो जाओ।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 37) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/36">⏪  BG-2.36</a><b>        ।।        </b><a href="../../2/38">BG-2.38  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 37) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/36">⏪  BG-2.36</a><b>        ।।        </b><a href="../../2/38">BG-2.38  ⏩</a></center>

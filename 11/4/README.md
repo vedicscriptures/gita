@@ -3,4 +3,4 @@
 <h3>मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो |<br/>योगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् ||११-४||</h3>
 <pre>manyase yadi tacchakyaṃ mayā draṣṭumiti prabho .<br/>yogeśvara tato me tvaṃ darśayātmānamavyayam ||11-4||</pre>
 <p>।।11.4।। हे प्रभो ! यदि आप मानते हैं कि मेरे द्वारा वह आपका रूप देखा जाना संभव है, तो हे योगेश्वर ! आप अपने अव्यय रूप का दर्शन कराइये।।</p>
-<pre>(Bhagavad Gita, Chapter 11, Shloka 4) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../11/3">⏪  BG-11.3</a><b>        ।।        </b><a href="../../11/5">BG-11.5  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 11, Shloka 4) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../11/3">⏪  BG-11.3</a><b>        ।।        </b><a href="../../11/5">BG-11.5  ⏩</a></center>

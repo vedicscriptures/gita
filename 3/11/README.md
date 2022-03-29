@@ -3,4 +3,4 @@
 <h3>देवान्भावयतानेन ते देवा भावयन्तु वः |<br/>परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ||३-११||</h3>
 <pre>devānbhāvayatānena te devā bhāvayantu vaḥ .<br/>parasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha ||3-11||</pre>
 <p>।।3.11।। तुम लोग इस यज्ञ द्वारा देवताओं की उन्नति करो और वे देवतागण तुम्हारी उन्नति करें। इस प्रकार परस्पर उन्नति करते हुये परम श्रेय को तुम प्राप्त होगे।।</p>
-<pre>(Bhagavad Gita, Chapter 3, Shloka 11) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/10">⏪  BG-3.10</a><b>        ।।        </b><a href="../../3/12">BG-3.12  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 3, Shloka 11) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/10">⏪  BG-3.10</a><b>        ।।        </b><a href="../../3/12">BG-3.12  ⏩</a></center>

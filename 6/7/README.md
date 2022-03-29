@@ -3,4 +3,4 @@
 <h3>जितात्मनः प्रशान्तस्य परमात्मा समाहितः |<br/>शीतोष्णसुखदुःखेषु तथा मानापमानयोः ||६-७||</h3>
 <pre>jitātmanaḥ praśāntasya paramātmā samāhitaḥ .<br/>śītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ ||6-7||</pre>
 <p>।।6.7।। शीत-उष्ण, सुख-दु:ख तथा मान-अपमान में जो प्रशान्त रहता है, ऐसे जितात्मा पुरुष के लिये परमात्मा सम्यक् प्रकार से स्थित है, अर्थात्, आत्मरूप से विद्यमान है।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 7) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/6">⏪  BG-6.6</a><b>        ।।        </b><a href="../../6/8">BG-6.8  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 7) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/6">⏪  BG-6.6</a><b>        ।।        </b><a href="../../6/8">BG-6.8  ⏩</a></center>

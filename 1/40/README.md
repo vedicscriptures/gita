@@ -3,4 +3,4 @@
 <h3>कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः |<br/>धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ||१-४०||</h3>
 <pre>kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ .<br/>dharme naṣṭe kulaṃ kṛtsnamadharmo.abhibhavatyuta ||1-40||</pre>
 <p>।।1.40।।कुल के नष्ट होने से सनातन धर्म नष्ट हो जाते हैं। धर्म नष्ट होने पर सम्पूर्ण कुल को अधर्म (पाप) दबा लेता है।</p>
-<pre>(Bhagavad Gita, Chapter 1, Shloka 40) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/39">⏪  BG-1.39</a><b>        ।।        </b><a href="../../1/41">BG-1.41  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 1, Shloka 40) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/39">⏪  BG-1.39</a><b>        ।।        </b><a href="../../1/41">BG-1.41  ⏩</a></center>

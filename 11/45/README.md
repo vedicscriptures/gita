@@ -3,4 +3,4 @@
 <h3>अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा<br/>भयेन च प्रव्यथितं मनो मे |<br/>तदेव मे दर्शय देव रूपं<br/>प्रसीद देवेश जगन्निवास ||११-४५||</h3>
 <pre>adṛṣṭapūrvaṃ hṛṣito.asmi dṛṣṭvā bhayena ca pravyathitaṃ mano me .<br/>tadeva me darśaya deva rūpaṃ prasīda deveśa jagannivāsa ||11-45||</pre>
 <p>।।11.45।। मैं आपके इस अदृष्टपूर्व रूप को देखकर हर्षित हो रहा हूँ और मेरा मन भय से अतिव्याकुल भी हो रहा हैं। इसलिए हे देव! आप उस पूर्वकाल को ही मुझे दिखाइये। हे देवेश! हे जगन्निवास! आप प्रसन्न होइये।।</p>
-<pre>(Bhagavad Gita, Chapter 11, Shloka 45) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../11/44">⏪  BG-11.44</a><b>        ।।        </b><a href="../../11/46">BG-11.46  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 11, Shloka 45) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../11/44">⏪  BG-11.44</a><b>        ।।        </b><a href="../../11/46">BG-11.46  ⏩</a></center>

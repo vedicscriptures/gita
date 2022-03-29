@@ -3,4 +3,4 @@
 <h3>ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |<br/>भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ||१८-६१||</h3>
 <pre>īśvaraḥ sarvabhūtānāṃ hṛddeśe.arjuna tiṣṭhati .<br/>bhrāmayansarvabhūtāni yantrārūḍhāni māyayā ||18-61||</pre>
 <p>।।18.61।। हे अर्जुन (मानों किसी) यन्त्र पर आरूढ़ समस्त भूतों को ईश्वर अपनी माया से घुमाता हुआ (भ्रामयन्) भूतमात्र के हृदय में स्थित रहता है।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 61) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/60">⏪  BG-18.60</a><b>        ।।        </b><a href="../../18/62">BG-18.62  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 61) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/60">⏪  BG-18.60</a><b>        ।।        </b><a href="../../18/62">BG-18.62  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते |<br/>एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ||९-१५||</h3>
 <pre>jñānayajñena cāpyanye yajanto māmupāsate .<br/>ekatvena pṛthaktvena bahudhā viśvatomukham ||9-15||</pre>
 <p>।।9.15।। कोई मुझे ज्ञानयज्ञ के द्वारा पूजन करते हुए एकत्वभाव से उपासते हैं, कोई पृथक भाव से, कोई बहुत प्रकार से मुझ विराट स्वरूप (विश्वतो मुखम्) को उपासते हैं।।</p>
-<pre>(Bhagavad Gita, Chapter 9, Shloka 15) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/14">⏪  BG-9.14</a><b>        ।।        </b><a href="../../9/16">BG-9.16  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 9, Shloka 15) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/14">⏪  BG-9.14</a><b>        ।।        </b><a href="../../9/16">BG-9.16  ⏩</a></center>

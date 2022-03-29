@@ -3,4 +3,4 @@
 <h3>साधिभूताधिदैवं मां साधियज्ञं च ये विदुः |<br/>प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः ||७-३०||</h3>
 <pre>sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ .<br/>prayāṇakāle.api ca māṃ te viduryuktacetasaḥ ||7-30||</pre>
 <p>।।7.30।। जो पुरुष अधिभूत और अधिदैव तथा अधियज्ञ के सहित मुझे जानते हैं, वे युक्तचित्त वाले पुरुष अन्तकाल में भी मुझे जानते हैं।।</p>
-<pre>(Bhagavad Gita, Chapter 7, Shloka 30) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../7/29">⏪  BG-7.29</a><b>        ।।        </b><a href="../../8/1">BG-8.1  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 7, Shloka 30) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../7/29">⏪  BG-7.29</a><b>        ।।        </b><a href="../../8/1">BG-8.1  ⏩</a></center>

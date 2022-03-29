@@ -3,4 +3,4 @@
 <h3>प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः |<br/>भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ||९-८||</h3>
 <pre>prakṛtiṃ svāmavaṣṭabhya visṛjāmi punaḥ punaḥ .<br/>bhūtagrāmamimaṃ kṛtsnamavaśaṃ prakṛtervaśāt ||9-8||</pre>
 <p>।।9.8।। प्रकृति को अपने वश में करके (अर्थात् उसे चेतनता प्रदान कर) स्वभाव के वश से परतन्त्र (अवश) हुए इस सम्पूर्ण भूत समुदाय को मैं पुन:-पुन: रचता हूँ।।</p>
-<pre>(Bhagavad Gita, Chapter 9, Shloka 8) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/7">⏪  BG-9.7</a><b>        ।।        </b><a href="../../9/9">BG-9.9  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 9, Shloka 8) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/7">⏪  BG-9.7</a><b>        ।।        </b><a href="../../9/9">BG-9.9  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः |<br/>हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ||१८-२७||</h3>
 <pre>rāgī karmaphalaprepsurlubdho hiṃsātmako.aśuciḥ .<br/>harṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||18-27||</pre>
 <p>।।18.27।। रागी, कर्मफल का इच्छुक, लोभी, हिंसक स्वभाव वाला, अशुद्ध और हर्षशोक से युक्त कर्ता राजस कहलाता है।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 27) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/26">⏪  BG-18.26</a><b>        ।।        </b><a href="../../18/28">BG-18.28  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 27) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/26">⏪  BG-18.26</a><b>        ।।        </b><a href="../../18/28">BG-18.28  ⏩</a></center>

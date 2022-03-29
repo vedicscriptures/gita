@@ -3,4 +3,4 @@
 <h3>क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् |<br/>अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||</h3>
 <pre>kleśo.adhikatarasteṣāmavyaktāsaktacetasām ||<br/>avyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate ||12-5||</pre>
 <p>।।12.5।। परन्तु उन अव्यक्त में आसक्त हुए चित्त वाले पुरुषों को क्लेश अधिक होता है, क्योंकि देहधारियों से अव्यक्त की गति कठिनाईपूर्वक प्राप्त की जाती है।।</p>
-<pre>(Bhagavad Gita, Chapter 12, Shloka 5) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/4">⏪  BG-12.4</a><b>        ।।        </b><a href="../../12/6">BG-12.6  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 12, Shloka 5) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/4">⏪  BG-12.4</a><b>        ।।        </b><a href="../../12/6">BG-12.6  ⏩</a></center>

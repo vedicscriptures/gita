@@ -3,4 +3,4 @@
 <h3>यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |<br/>स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||१८-४६||</h3>
 <pre>yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam .<br/>svakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ ||18-46||</pre>
 <p>।।18.46।। जिस (परमात्मा) से भूतमात्र की प्रवृत्ति अर्थात् उत्पत्ति हुई है और जिससे यह सम्पूर्ण जगत् व्याप्त है, उस (परमात्मा) की स्वकर्म द्वारा पूजा करके मनुष्य सिद्धि को प्राप्त होता है।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 46) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/45">⏪  BG-18.45</a><b>        ।।        </b><a href="../../18/47">BG-18.47  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 46) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/45">⏪  BG-18.45</a><b>        ।।        </b><a href="../../18/47">BG-18.47  ⏩</a></center>

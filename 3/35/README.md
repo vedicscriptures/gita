@@ -3,4 +3,4 @@
 <h3>श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् |<br/>स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ||३-३५||</h3>
 <pre>śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt .<br/>svadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ ||3-35||</pre>
 <p>।।3.35।। सम्यक् प्रकार से अनुष्ठित परधर्म की अपेक्षा गुणरहित स्वधर्म का पालन श्रेयष्कर है;  स्वधर्म में मरण कल्याणकारक है (किन्तु) परधर्म भय को देने वाला है।।</p>
-<pre>(Bhagavad Gita, Chapter 3, Shloka 35) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/34">⏪  BG-3.34</a><b>        ।।        </b><a href="../../3/36">BG-3.36  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 3, Shloka 35) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/34">⏪  BG-3.34</a><b>        ।।        </b><a href="../../3/36">BG-3.36  ⏩</a></center>

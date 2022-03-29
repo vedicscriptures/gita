@@ -3,4 +3,4 @@
 <h3>बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः |<br/>सुखं दुःखं भवोऽभावो भयं चाभयमेव च ||१०-४||</h3>
 <pre>buddhirjñānamasammohaḥ kṣamā satyaṃ damaḥ śamaḥ .<br/>sukhaṃ duḥkhaṃ bhavo.abhāvo bhayaṃ cābhayameva ca ||10-4||</pre>
 <p>।।10.4।। बुद्धि, ज्ञान, मोह का अभाव, क्षमा, सत्य, दम (इन्द्रिय संयम), शम (मन: संयम), सुख, दु:ख, जन्म और मृत्यु, भय और अभय।।</p>
-<pre>(Bhagavad Gita, Chapter 10, Shloka 4) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/3">⏪  BG-10.3</a><b>        ।।        </b><a href="../../10/5">BG-10.5  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 10, Shloka 4) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/3">⏪  BG-10.3</a><b>        ।।        </b><a href="../../10/5">BG-10.5  ⏩</a></center>

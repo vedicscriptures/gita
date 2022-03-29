@@ -3,4 +3,4 @@
 <h3>अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः |<br/>निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ||२-३६||</h3>
 <pre>avācyavādāṃśca bahūnvadiṣyanti tavāhitāḥ .<br/>nindantastava sāmarthyaṃ tato duḥkhataraṃ nu kim ||2-36||</pre>
 <p>।।2.36।। तुम्हारे शत्रु तुम्हारे सार्मथ्य की निन्दा करते हुए बहुत से अकथनीय वचनों को कहेंगे,  फिर उससे अधिक दु:ख क्या होगा ?</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 36) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/35">⏪  BG-2.35</a><b>        ।।        </b><a href="../../2/37">BG-2.37  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 36) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/35">⏪  BG-2.35</a><b>        ।।        </b><a href="../../2/37">BG-2.37  ⏩</a></center>

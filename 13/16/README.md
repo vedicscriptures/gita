@@ -3,4 +3,4 @@
 <h3>बहिरन्तश्च भूतानामचरं चरमेव च |<br/>सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ||१३-१६||</h3>
 <pre>bahirantaśca bhūtānāmacaraṃ carameva ca .<br/>sūkṣmatvāttadavijñeyaṃ dūrasthaṃ cāntike ca tat ||13-16||</pre>
 <p>।।13.16।। (वह ब्रह्म) भूत मात्र के अन्तर्बाह्य स्थित है; वह चर है और अचर भी। सूक्ष्म होने से वह अविज्ञेय है; वह सुदूर और अत्यन्त समीपस्थ भी है।।</p>
-<pre>(Bhagavad Gita, Chapter 13, Shloka 16) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/15">⏪  BG-13.15</a><b>        ।।        </b><a href="../../13/17">BG-13.17  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 13, Shloka 16) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/15">⏪  BG-13.15</a><b>        ।।        </b><a href="../../13/17">BG-13.17  ⏩</a></center>

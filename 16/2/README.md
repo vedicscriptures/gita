@@ -3,4 +3,4 @@
 <h3>अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |<br/>दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||</h3>
 <pre>ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam .<br/>dayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam ||16-2||</pre>
 <p>।।16.2।। अहिंसा, सत्य, क्रोध का अभाव, त्याग, शान्ति, अपैशुनम् (किसी की निन्दा न करना), भूतमात्र के प्रति दया, अलोलुपता , मार्दव (कोमलता), लज्जा, अचंचलता।।</p>
-<pre>(Bhagavad Gita, Chapter 16, Shloka 2) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../16/1">⏪  BG-16.1</a><b>        ।।        </b><a href="../../16/3">BG-16.3  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 16, Shloka 2) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../16/1">⏪  BG-16.1</a><b>        ।।        </b><a href="../../16/3">BG-16.3  ⏩</a></center>

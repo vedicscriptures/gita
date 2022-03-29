@@ -3,4 +3,4 @@
 <h3>अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |<br/>यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||</h3>
 <pre>antakāle ca māmeva smaranmuktvā kalevaram .<br/>yaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ ||8-5||</pre>
 <p>।।8.5।। और जो कोई पुरुष अन्तकाल में मुझे ही स्मरण करता हुआ शरीर को त्याग कर जाता है, वह मेरे स्वरूप को प्राप्त होता है, इसमें कुछ भी संशय नहीं।।</p>
-<pre>(Bhagavad Gita, Chapter 8, Shloka 5) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/4">⏪  BG-8.4</a><b>        ।।        </b><a href="../../8/6">BG-8.6  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 8, Shloka 5) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/4">⏪  BG-8.4</a><b>        ।।        </b><a href="../../8/6">BG-8.6  ⏩</a></center>

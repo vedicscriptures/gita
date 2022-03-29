@@ -3,4 +3,4 @@
 <h3>ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति |<br/>निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ||५-३||</h3>
 <pre>jñeyaḥ sa nityasaṃnyāsī yo na dveṣṭi na kāṅkṣati .<br/>nirdvandvo hi mahābāho sukhaṃ bandhātpramucyate ||5-3||</pre>
 <p>।।5.3।। जो पुरुष न किसी से द्वेष करता है और न किसी की आकांक्षा,  वह सदा संन्यासी ही समझने योग्य है;  क्योंकि,  हे महाबाहो ! द्वन्द्वों से रहित पुरुष सहज ही बन्धन मुक्त हो जाता है।।</p>
-<pre>(Bhagavad Gita, Chapter 5, Shloka 3) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/2">⏪  BG-5.2</a><b>        ।।        </b><a href="../../5/4">BG-5.4  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 5, Shloka 3) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/2">⏪  BG-5.2</a><b>        ।।        </b><a href="../../5/4">BG-5.4  ⏩</a></center>

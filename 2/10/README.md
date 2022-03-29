@@ -3,4 +3,4 @@
 <h3>तमुवाच हृषीकेशः प्रहसन्निव भारत |<br/>सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ||२-१०||</h3>
 <pre>tamuvāca hṛṣīkeśaḥ prahasanniva bhārata .<br/>senayorubhayormadhye viṣīdantamidaṃ vacaḥ ||2-10||</pre>
 <p>।।2.10।। हे भारत (धृतराष्ट्र) ! दोनों सेनाओं के बीच में उस शोकमग्न अर्जुन को भगवान् हृषीकेश ने हँसते हुए से यह वचन कहे।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 10) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/9">⏪  BG-2.9</a><b>        ।।        </b><a href="../../2/11">BG-2.11  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 10) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/9">⏪  BG-2.9</a><b>        ।।        </b><a href="../../2/11">BG-2.11  ⏩</a></center>

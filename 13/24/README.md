@@ -3,4 +3,4 @@
 <h3>य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह |<br/>सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ||१३-२४||</h3>
 <pre>ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥ saha .<br/>sarvathā vartamāno.api na sa bhūyo.abhijāyate ||13-24||</pre>
 <p>।।13.24।। इस प्रकार पुरुष और गुणों के सहित प्रकृति को जो मनुष्य जानता है, वह सब प्रकार से रहता हुआ (व्यवहार करता हुआ) भी पुन: नहीं जन्मता है।।</p>
-<pre>(Bhagavad Gita, Chapter 13, Shloka 24) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/23">⏪  BG-13.23</a><b>        ।।        </b><a href="../../13/25">BG-13.25  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 13, Shloka 24) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/23">⏪  BG-13.23</a><b>        ।।        </b><a href="../../13/25">BG-13.25  ⏩</a></center>

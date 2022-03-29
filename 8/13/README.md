@@ -3,4 +3,4 @@
 <h3>ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् |<br/>यः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||</h3>
 <pre>omityekākṣaraṃ brahma vyāharanmāmanusmaran .<br/>yaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim ||8-13||</pre>
 <p>।।8.13।। जो पुरुष ओऽम् इस एक अक्षर ब्रह्म का उच्चारण करता हुआ और मेरा स्मरण करता हुआ शरीर का त्याग करता है, वह परम गति को प्राप्त होता है।।</p>
-<pre>(Bhagavad Gita, Chapter 8, Shloka 13) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/12">⏪  BG-8.12</a><b>        ।।        </b><a href="../../8/14">BG-8.14  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 8, Shloka 13) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/12">⏪  BG-8.12</a><b>        ।।        </b><a href="../../8/14">BG-8.14  ⏩</a></center>

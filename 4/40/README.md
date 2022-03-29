@@ -3,4 +3,4 @@
 <h3>अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति |<br/>नायं लोकोऽस्ति न परो न सुखं संशयात्मनः ||४-४०||</h3>
 <pre>ajñaścāśraddadhānaśca saṃśayātmā vinaśyati .<br/>nāyaṃ loko.asti na paro na sukhaṃ saṃśayātmanaḥ ||4-40||</pre>
 <p>।।4.40।। अज्ञानी तथा श्रद्धारहित और संशययुक्त पुरुष नष्ट हो जाता है,  (उनमें भी) संशयी पुरुष के लिये न यह लोक है,  न परलोक और न सुख।।</p>
-<pre>(Bhagavad Gita, Chapter 4, Shloka 40) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/39">⏪  BG-4.39</a><b>        ।।        </b><a href="../../4/41">BG-4.41  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 4, Shloka 40) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/39">⏪  BG-4.39</a><b>        ।।        </b><a href="../../4/41">BG-4.41  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते |<br/>योगारूढस्य तस्यैव शमः कारणमुच्यते ||६-३||</h3>
 <pre>ārurukṣormuneryogaṃ karma kāraṇamucyate .<br/>yogārūḍhasya tasyaiva śamaḥ kāraṇamucyate ||6-3||</pre>
 <p>।।6.3।। योग में आरूढ़ होने की इच्छा वाले मुनि के लिए कर्म करना ही हेतु (साधन) कहा है और योगारूढ़ हो जाने पर उसी पुरुष के लिए शम को (शांति, संकल्पसंन्यास) साधन कहा गया है।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 3) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/2">⏪  BG-6.2</a><b>        ।।        </b><a href="../../6/4">BG-6.4  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 3) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/2">⏪  BG-6.2</a><b>        ।।        </b><a href="../../6/4">BG-6.4  ⏩</a></center>

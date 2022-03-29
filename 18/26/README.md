@@ -3,4 +3,4 @@
 <h3>मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः |<br/>सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ||१८-२६||</h3>
 <pre>muktasaṅgo.anahaṃvādī dhṛtyutsāhasamanvitaḥ .<br/>siddhyasiddhyornirvikāraḥ kartā sāttvika ucyate ||18-26||</pre>
 <p>।।18.26।। जो कर्ता संगरहित, अहंमन्यता से रहित, धैर्य और उत्साह से युक्त एवं कार्य की सिद्धि (सफलता) और असिद्धि (विफलता) में निर्विकार रहता है, वह कर्ता सात्त्विक कहा जाता है।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 26) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/25">⏪  BG-18.25</a><b>        ।।        </b><a href="../../18/27">BG-18.27  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 26) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/25">⏪  BG-18.25</a><b>        ।।        </b><a href="../../18/27">BG-18.27  ⏩</a></center>

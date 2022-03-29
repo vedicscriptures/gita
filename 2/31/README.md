@@ -3,4 +3,4 @@
 <h3>स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि |<br/>धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ||२-३१||</h3>
 <pre>svadharmamapi cāvekṣya na vikampitumarhasi .<br/>dharmyāddhi yuddhācchreyo.anyatkṣatriyasya na vidyate ||2-31||</pre>
 <p>।।2.31।। और स्वधर्म को भी देखकर तुमको विचलित होना उचित नहीं है,  क्योंकि धर्मयुक्त युद्ध से बढ़कर दूसरा कोई कल्याणकारक कर्त्तव्य क्षत्रिय के लिये नहीं है।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 31) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/30">⏪  BG-2.30</a><b>        ।।        </b><a href="../../2/32">BG-2.32  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 31) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/30">⏪  BG-2.30</a><b>        ।।        </b><a href="../../2/32">BG-2.32  ⏩</a></center>

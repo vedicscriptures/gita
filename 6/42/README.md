@@ -3,4 +3,4 @@
 <h3>अथवा योगिनामेव कुले भवति धीमताम् |<br/>एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ||६-४२||</h3>
 <pre>athavā yogināmeva kule bhavati dhīmatām .<br/>etaddhi durlabhataraṃ loke janma yadīdṛśam ||6-42||</pre>
 <p>।।6.42।। अथवा, (साधक) ज्ञानवान् योगियों के ही कुल में जन्म लेता है, परन्तु इस प्रकार का जन्म इस लोक में नि:संदेह अति दुर्लभ है।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 42) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/41">⏪  BG-6.41</a><b>        ।।        </b><a href="../../6/43">BG-6.43  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 42) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/41">⏪  BG-6.41</a><b>        ।।        </b><a href="../../6/43">BG-6.43  ⏩</a></center>

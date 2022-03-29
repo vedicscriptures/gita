@@ -3,4 +3,4 @@
 <h3>अविभक्तं च भूतेषु विभक्तमिव च स्थितम् |<br/>भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च ||१३-१७||</h3>
 <pre>avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam .<br/>bhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca ||13-17||</pre>
 <p>।।13.17।। और वह अविभक्त है, तथापि वह भूतों में विभक्त के समान स्थित है। वह ज्ञेय ब्रह्म भूतमात्र का भर्ता, संहारकर्ता और उत्पत्ति कर्ता है।।</p>
-<pre>(Bhagavad Gita, Chapter 13, Shloka 17) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/16">⏪  BG-13.16</a><b>        ।।        </b><a href="../../13/18">BG-13.18  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 13, Shloka 17) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/16">⏪  BG-13.16</a><b>        ।।        </b><a href="../../13/18">BG-13.18  ⏩</a></center>

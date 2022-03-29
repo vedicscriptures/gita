@@ -3,4 +3,4 @@
 <h3>अर्जुन उवाच |<br/>योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन |<br/>एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ||६-३३||</h3>
 <pre>arjuna uvāca .<br/>yo.ayaṃ yogastvayā proktaḥ sāmyena madhusūdana .<br/>etasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām ||6-33||</pre>
 <p>।।6.33।। अर्जुन ने कहा --  हे मधुसूदन ! जो यह साम्य योग आपने कहा, मैं मन के चंचल होने से इसकी चिरस्थायी स्थिति को नहीं देखता हूं।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 33) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/32">⏪  BG-6.32</a><b>        ।।        </b><a href="../../6/34">BG-6.34  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 33) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/32">⏪  BG-6.32</a><b>        ।।        </b><a href="../../6/34">BG-6.34  ⏩</a></center>

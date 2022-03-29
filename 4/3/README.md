@@ -3,4 +3,4 @@
 <h3>स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः |<br/>भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ||४-३||</h3>
 <pre>sa evāyaṃ mayā te.adya yogaḥ proktaḥ purātanaḥ .<br/>bhakto.asi me sakhā ceti rahasyaṃ hyetaduttamam ||4-3||</pre>
 <p>।।4.3।। वह ही यह पुरातन योग आज मैंने तुम्हें कहा (सिखाया) क्योंकि तुम मेरे भक्त और मित्र हो। यह उत्तम रहस्य है।।</p>
-<pre>(Bhagavad Gita, Chapter 4, Shloka 3) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/2">⏪  BG-4.2</a><b>        ।।        </b><a href="../../4/4">BG-4.4  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 4, Shloka 3) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/2">⏪  BG-4.2</a><b>        ।।        </b><a href="../../4/4">BG-4.4  ⏩</a></center>

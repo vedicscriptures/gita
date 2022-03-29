@@ -3,4 +3,4 @@
 <h3>ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः |<br/>प्रणम्य शिरसा देवं कृताञ्जलिरभाषत ||११-१४||</h3>
 <pre>tataḥ sa vismayāviṣṭo hṛṣṭaromā dhanañjayaḥ .<br/>praṇamya śirasā devaṃ kṛtāñjalirabhāṣata ||11-14||</pre>
 <p>।।11.14।। उसके उपरान्त वह आश्चर्यचकित हुआ हर्षित रोमों वाला (जिसे रोमांच का अनुभव हो रहा हो) धनंजय अर्जुन विश्वरूप देव को (श्रद्धा भक्ति सहित) शिर से प्रणाम करके हाथ जोड़कर बोला।।</p>
-<pre>(Bhagavad Gita, Chapter 11, Shloka 14) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../11/13">⏪  BG-11.13</a><b>        ।।        </b><a href="../../11/15">BG-11.15  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 11, Shloka 14) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../11/13">⏪  BG-11.13</a><b>        ।।        </b><a href="../../11/15">BG-11.15  ⏩</a></center>

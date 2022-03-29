@@ -3,4 +3,4 @@
 <h3>आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |<br/>मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ||१०-२१||</h3>
 <pre>ādityānāmahaṃ viṣṇurjyotiṣāṃ raviraṃśumān .<br/>marīcirmarutāmasmi nakṣatrāṇāmahaṃ śaśī ||10-21||</pre>
 <p>।।10.21।। मैं (बारह) आदित्यों में विष्णु और ज्योतियों में अंशुमान् सूर्य हूँ; मैं (उनचास) मरुतों (वायु देवताओं) में मरीचि हूँ और नक्षत्रों में शशी (चन्द्रमा) हूँ।।</p>
-<pre>(Bhagavad Gita, Chapter 10, Shloka 21) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/20">⏪  BG-10.20</a><b>        ।।        </b><a href="../../10/22">BG-10.22  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 10, Shloka 21) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/20">⏪  BG-10.20</a><b>        ।।        </b><a href="../../10/22">BG-10.22  ⏩</a></center>

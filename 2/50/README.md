@@ -3,4 +3,4 @@
 <h3>बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते |<br/>तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ||२-५०||</h3>
 <pre>buddhiyukto jahātīha ubhe sukṛtaduṣkṛte .<br/>tasmādyogāya yujyasva yogaḥ karmasu kauśalam ||2-50||</pre>
 <p>।।2.50।। समत्वबुद्धि युक्त पुरुष यहां (इस जीवन में) पुण्य और पाप इन दोनों कर्मों को त्याग देता है? इसलिये तुम योग से युक्त हो जाओ। कर्मों में कुशलता योग है।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 50) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/49">⏪  BG-2.49</a><b>        ।।        </b><a href="../../2/51">BG-2.51  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 50) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/49">⏪  BG-2.49</a><b>        ।।        </b><a href="../../2/51">BG-2.51  ⏩</a></center>

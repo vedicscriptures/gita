@@ -3,4 +3,4 @@
 <h3>एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः |<br/>अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ||३-१६||</h3>
 <pre>evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ .<br/>aghāyurindriyārāmo moghaṃ pārtha sa jīvati ||3-16||</pre>
 <p>।।3.16।। जो पुरुष यहाँ इस प्रकार प्रवर्तित हुए चक्र का अनुवर्तन नहीं करता हे पार्थ इंन्द्रियों में रमने वाला वह पाप आयु पुरुष व्यर्थ ही जीता है।।</p>
-<pre>(Bhagavad Gita, Chapter 3, Shloka 16) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/15">⏪  BG-3.15</a><b>        ।।        </b><a href="../../3/17">BG-3.17  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 3, Shloka 16) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../3/15">⏪  BG-3.15</a><b>        ।।        </b><a href="../../3/17">BG-3.17  ⏩</a></center>

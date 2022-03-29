@@ -3,4 +3,4 @@
 <h3>योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः |<br/>धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||</h3>
 <pre>yotsyamānānavekṣe.ahaṃ ya ete.atra samāgatāḥ .<br/>dhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ ||1-23||</pre>
 <p>।।1.23।।दुर्बुद्धि धार्तराष्ट्र (दुर्योधन) का युद्ध में प्रिय चाहने वाले जो ये राजा लोग यहाँ एकत्र हुए हैं, उन युद्ध करने वालों को मैं देखूँगा।</p>
-<pre>(Bhagavad Gita, Chapter 1, Shloka 23) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/22">⏪  BG-1.22</a><b>        ।।        </b><a href="../../1/24">BG-1.24  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 1, Shloka 23) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/22">⏪  BG-1.22</a><b>        ।।        </b><a href="../../1/24">BG-1.24  ⏩</a></center>

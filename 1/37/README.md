@@ -3,4 +3,4 @@
 <h3>तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |<br/>स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||</h3>
 <pre>tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān .<br/>svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava ||1-37||</pre>
 <p>।।1.37।।हे माधव  !  इसलिये अपने बान्धव धृतराष्ट्र के पुत्रों को मारना हमारे लिए योग्य नहीं है,  क्योंकि स्वजनों को मारकर हम कैसे सुखी होंगे।</p>
-<pre>(Bhagavad Gita, Chapter 1, Shloka 37) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/36">⏪  BG-1.36</a><b>        ।।        </b><a href="../../1/38">BG-1.38  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 1, Shloka 37) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/36">⏪  BG-1.36</a><b>        ।।        </b><a href="../../1/38">BG-1.38  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |<br/>अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ||५-२६||</h3>
 <pre>kāmakrodhaviyuktānāṃ yatīnāṃ yatacetasām .<br/>abhito brahmanirvāṇaṃ vartate viditātmanām ||5-26||</pre>
 <p>।।5.26।। काम और क्रोध से रहित,  संयतचित्त वाले तथा आत्मा को जानने वाले यतियों के लिए सब ओर मोक्ष (या ब्रह्मानन्द) विद्यमान रहता है।।</p>
-<pre>(Bhagavad Gita, Chapter 5, Shloka 26) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/25">⏪  BG-5.25</a><b>        ।।        </b><a href="../../5/27">BG-5.27  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 5, Shloka 26) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../5/25">⏪  BG-5.25</a><b>        ।।        </b><a href="../../5/27">BG-5.27  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन |<br/>सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ||१८-९||</h3>
 <pre>kāryamityeva yatkarma niyataṃ kriyate.arjuna .<br/>saṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ ||18-9||</pre>
 <p>।।18.9।। हे अर्जुन ! "कर्म करना कर्तव्य है" ऐसा समझकर जो नियत कर्म आसक्ति और फल को त्यागकर किया जाता है, वही सात्त्विक त्याग माना गया है।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 9) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/8">⏪  BG-18.8</a><b>        ।।        </b><a href="../../18/10">BG-18.10  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 9) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/8">⏪  BG-18.8</a><b>        ।।        </b><a href="../../18/10">BG-18.10  ⏩</a></center>

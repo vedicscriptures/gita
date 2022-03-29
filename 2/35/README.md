@@ -3,4 +3,4 @@
 <h3>भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः |<br/>येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ||२-३५||</h3>
 <pre>bhayādraṇāduparataṃ maṃsyante tvāṃ mahārathāḥ .<br/>yeṣāṃ ca tvaṃ bahumato bhūtvā yāsyasi lāghavam ||2-35||</pre>
 <p>।।2.35।। और जिनके लिए तुम बहुत माननीय हो उनके लिए अब तुम तुच्छता को प्राप्त होओगे,  वे महारथी लोग तुम्हें भय के कारण युद्ध से निवृत्त हुआ मानेंगे।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 35) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/34">⏪  BG-2.34</a><b>        ।।        </b><a href="../../2/36">BG-2.36  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 35) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/34">⏪  BG-2.34</a><b>        ।।        </b><a href="../../2/36">BG-2.36  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः |<br/>न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ||२-२३||</h3>
 <pre>nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ .<br/>na cainaṃ kledayantyāpo na śoṣayati mārutaḥ ||2-23||</pre>
 <p>।।2.23।। इस आत्मा को शस्त्र काट नहीं सकते और न अग्नि इसे जला सकती है ; जल इसे गीला नहीं कर सकता और वायु इसे सुखा नहीं सकती।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 23) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/22">⏪  BG-2.22</a><b>        ।।        </b><a href="../../2/24">BG-2.24  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 23) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/22">⏪  BG-2.22</a><b>        ।।        </b><a href="../../2/24">BG-2.24  ⏩</a></center>

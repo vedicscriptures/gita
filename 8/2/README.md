@@ -3,4 +3,4 @@
 <h3>अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन |<br/>प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ||८-२||</h3>
 <pre>adhiyajñaḥ kathaṃ ko.atra dehe.asminmadhusūdana .<br/>prayāṇakāle ca kathaṃ jñeyo.asi niyatātmabhiḥ ||8-2||</pre>
 <p>।।8.2।। और हे मधुसूदन ! यहाँ अधियज्ञ कौन है? और वह इस शरीर में कैसे है? और संयत चित्त वाले पुरुषों द्वारा अन्त समय में आप किस प्रकार जाने जाते हैं,</p>
-<pre>(Bhagavad Gita, Chapter 8, Shloka 2) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/1">⏪  BG-8.1</a><b>        ।।        </b><a href="../../8/3">BG-8.3  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 8, Shloka 2) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/1">⏪  BG-8.1</a><b>        ।।        </b><a href="../../8/3">BG-8.3  ⏩</a></center>

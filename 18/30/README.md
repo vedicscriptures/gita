@@ -3,4 +3,4 @@
 <h3>प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये |<br/>बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||१८-३०||</h3>
 <pre>pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye .<br/>bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī ||18-30||</pre>
 <p>।।18.30।। हे पार्थ ! जो बुद्धि प्रवृत्ति और निवृत्ति, कार्य और अकार्य, भय और अभय तथा बन्ध और मोक्ष को तत्त्वत जानती है, वह बुद्धि सात्विकी है।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 30) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/29">⏪  BG-18.29</a><b>        ।।        </b><a href="../../18/31">BG-18.31  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 30) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/29">⏪  BG-18.29</a><b>        ।।        </b><a href="../../18/31">BG-18.31  ⏩</a></center>

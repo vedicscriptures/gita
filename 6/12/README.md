@@ -3,4 +3,4 @@
 <h3>तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः |<br/>उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ||६-१२||</h3>
 <pre>tatraikāgraṃ manaḥ kṛtvā yatacittendriyakriyaḥ .<br/>upaviśyāsane yuñjyādyogamātmaviśuddhaye ||6-12||</pre>
 <p>।।6.12।। वहाँ (आसन में बैठकर) मन को एकाग्र करके, चित्त और इन्द्रियों की क्रियाओं को वश में किये हुये आत्मशुद्धि के लिए योग का अभ्यास करे।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 12) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/11">⏪  BG-6.11</a><b>        ।।        </b><a href="../../6/13">BG-6.13  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 12) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/11">⏪  BG-6.11</a><b>        ।।        </b><a href="../../6/13">BG-6.13  ⏩</a></center>

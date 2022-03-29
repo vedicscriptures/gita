@@ -3,4 +3,4 @@
 <h3>न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः |<br/>भविता न च मे तस्मादन्यः प्रियतरो भुवि ||१८-६९||</h3>
 <pre>na ca tasmānmanuṣyeṣu kaścinme priyakṛttamaḥ .<br/>bhavitā na ca me tasmādanyaḥ priyataro bhuvi ||18-69||</pre>
 <p>।।18.69।। न तो उससे बढ़कर मेरा अतिशय प्रिय कार्य करने वाला मनुष्यों में कोई है और न उससे बढ़कर मेरा प्रिय इस पृथ्वी पर दूसरा कोई होगा।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 69) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/68">⏪  BG-18.68</a><b>        ।।        </b><a href="../../18/70">BG-18.70  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 69) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/68">⏪  BG-18.68</a><b>        ।।        </b><a href="../../18/70">BG-18.70  ⏩</a></center>

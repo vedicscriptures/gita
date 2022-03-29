@@ -3,4 +3,4 @@
 <h3>या निशा सर्वभूतानां तस्यां जागर्ति संयमी |<br/>यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ||२-६९||</h3>
 <pre>yā niśā sarvabhūtānāṃ tasyāṃ jāgarti saṃyamī .<br/>yasyāṃ jāgrati bhūtāni sā niśā paśyato muneḥ ||2-69||</pre>
 <p>।।2.69।। सब प्रणियों के लिए जो रात्रि है? उसमें संयमी पुरुष जागता है और जहाँ सब प्राणी जागते हैं? वह (तत्त्व को) देखने वाले मुनि के लिए रात्रि है।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 69) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/68">⏪  BG-2.68</a><b>        ।।        </b><a href="../../2/70">BG-2.70  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 69) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/68">⏪  BG-2.68</a><b>        ।।        </b><a href="../../2/70">BG-2.70  ⏩</a></center>

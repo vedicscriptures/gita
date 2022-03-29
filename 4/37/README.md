@@ -3,4 +3,4 @@
 <h3>यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन |<br/>ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ||४-३७||</h3>
 <pre>yathaidhāṃsi samiddho.agnirbhasmasātkurute.arjuna .<br/>jñānāgniḥ sarvakarmāṇi bhasmasātkurute tathā ||4-37||</pre>
 <p>।।4.37।। जैसे प्रज्जवलित अग्नि ईन्धन को भस्मसात् कर देती है,  वैसे ही,  हे अर्जुन ! ज्ञानरूपी अग्नि सम्पूर्ण कर्मों को भस्मसात् कर देती है।।</p>
-<pre>(Bhagavad Gita, Chapter 4, Shloka 37) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/36">⏪  BG-4.36</a><b>        ।।        </b><a href="../../4/38">BG-4.38  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 4, Shloka 37) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../4/36">⏪  BG-4.36</a><b>        ।।        </b><a href="../../4/38">BG-4.38  ⏩</a></center>

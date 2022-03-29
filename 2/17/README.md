@@ -3,4 +3,4 @@
 <h3>अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् |<br/>विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ||२-१७||</h3>
 <pre>avināśi tu tadviddhi yena sarvamidaṃ tatam .<br/>vināśamavyayasyāsya na kaścitkartumarhati ||2-17||</pre>
 <p>।।2.17।। उस वस्तु को तुम अविनाशी जानों,  जिससे यह सम्पूर्ण जगत् व्याप्त है। इस अव्यय का नाश करने में कोई भी समर्थ नहीं है।।</p>
-<pre>(Bhagavad Gita, Chapter 2, Shloka 17) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/16">⏪  BG-2.16</a><b>        ।।        </b><a href="../../2/18">BG-2.18  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 2, Shloka 17) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/16">⏪  BG-2.16</a><b>        ।।        </b><a href="../../2/18">BG-2.18  ⏩</a></center>

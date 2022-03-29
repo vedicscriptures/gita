@@ -3,4 +3,4 @@
 <h3>सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् |<br/>असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ||१३-१५||</h3>
 <pre>sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam .<br/>asaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca ||13-15||</pre>
 <p>।।13.15।। वह समस्त इन्द्रियों के गुणो (कार्यों) के द्वारा प्रकाशित होने वाला, परन्तु (वस्तुत:) समस्त इन्द्रियों से रहित है; आसक्ति रहित तथा गुण रहित होते हुए भी सबको धारणपोषण करने वाला और गुणों का भोक्ता है।।</p>
-<pre>(Bhagavad Gita, Chapter 13, Shloka 15) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/14">⏪  BG-13.14</a><b>        ।।        </b><a href="../../13/16">BG-13.16  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 13, Shloka 15) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../13/14">⏪  BG-13.14</a><b>        ।।        </b><a href="../../13/16">BG-13.16  ⏩</a></center>

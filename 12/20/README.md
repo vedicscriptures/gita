@@ -3,4 +3,4 @@
 <h3>ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |<br/>श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ||१२-२०||</h3>
 <pre>ye tu dharmyāmṛtamidaṃ yathoktaṃ paryupāsate .<br/>śraddadhānā matparamā bhaktāste.atīva me priyāḥ ||12-20||</pre>
 <p>।।12.20।। जो भक्त श्रद्धावान् तथा मुझे ही परम लक्ष्य समझने वाले हैं और इस यथोक्त धर्ममय अमृत का अर्थात् धर्ममय जीवन का पालन करते हैं, वे मुझे अतिशय प्रिय हैं।।</p>
-<pre>(Bhagavad Gita, Chapter 12, Shloka 20) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/19">⏪  BG-12.19</a><b>        ।।        </b><a href="../../13/1">BG-13.1  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 12, Shloka 20) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/19">⏪  BG-12.19</a><b>        ।।        </b><a href="../../13/1">BG-13.1  ⏩</a></center>

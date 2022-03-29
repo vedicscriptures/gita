@@ -3,4 +3,4 @@
 <h3>विविक्तसेवी लघ्वाशी यतवाक्कायमानसः |<br/>ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ||१८-५२||</h3>
 <pre>viviktasevī laghvāśī yatavākkāyamānasaḥ .<br/>dhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ ||18-52||</pre>
 <p>।।18.52।। विविक्त सेवी, लघ्वाशी (मिताहारी) जिसने अपने शरीर, वाणी और मन को संयत किया है, ध्यानयोग के अभ्यास में सदैव तत्पर तथा वैराग्य पर समाश्रित।।</p>
-<pre>(Bhagavad Gita, Chapter 18, Shloka 52) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/51">⏪  BG-18.51</a><b>        ।।        </b><a href="../../18/53">BG-18.53  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 18, Shloka 52) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../18/51">⏪  BG-18.51</a><b>        ।।        </b><a href="../../18/53">BG-18.53  ⏩</a></center>

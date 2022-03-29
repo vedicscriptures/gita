@@ -3,4 +3,4 @@
 <h3>सञ्जय उवाच |<br/>एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् |<br/>विसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||</h3>
 <pre>sañjaya uvāca .<br/>evamuktvārjunaḥ saṅkhye rathopastha upāviśat .<br/>visṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ ||1-47||</pre>
 <p>।।1.47।।संजय ने कहा  --  रणभूमि (संख्ये) में शोक से उद्विग्न मनवाला अर्जुन इस प्रकार कहकर बाणसहित धनुष को त्याग कर रथ के पिछले भाग में बैठ गया।</p>
-<pre>(Bhagavad Gita, Chapter 1, Shloka 47) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/46">⏪  BG-1.46</a><b>        ।।        </b><a href="../../2/1">BG-2.1  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 1, Shloka 47) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../1/46">⏪  BG-1.46</a><b>        ।।        </b><a href="../../2/1">BG-2.1  ⏩</a></center>

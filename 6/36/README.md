@@ -3,4 +3,4 @@
 <h3>असंयतात्मना योगो दुष्प्राप इति मे मतिः |<br/>वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ||६-३६||</h3>
 <pre>asaṃyatātmanā yogo duṣprāpa iti me matiḥ .<br/>vaśyātmanā tu yatatā śakyo.avāptumupāyataḥ ||6-36||</pre>
 <p>।।6.36।। असंयत मन के पुरुष द्वारा योग प्राप्त होना कठिन है, परन्तु स्वाधीन मन वाले प्रयत्नशील पुरुष द्वारा उपाय से योग प्राप्त होना संभव है, यह मेरा मत है।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 36) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/35">⏪  BG-6.35</a><b>        ।।        </b><a href="../../6/37">BG-6.37  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 36) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/35">⏪  BG-6.35</a><b>        ।।        </b><a href="../../6/37">BG-6.37  ⏩</a></center>

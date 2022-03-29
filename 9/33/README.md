@@ -3,4 +3,4 @@
 <h3>किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा |<br/>अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||</h3>
 <pre>kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā .<br/>anityamasukhaṃ lokamimaṃ prāpya bhajasva mām ||9-33||</pre>
 <p>।।9.33।। फिर क्या कहना है कि पुण्यशील ब्राह्मण और राजर्षि भक्तजन (परम गति को प्राप्त होते हैं); (इसलिए) इस अनित्य और सुखरहित लोक को प्राप्त होकर (अब) तुम भक्तिपूर्वक मेरी ही पूजा करो।।</p>
-<pre>(Bhagavad Gita, Chapter 9, Shloka 33) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/32">⏪  BG-9.32</a><b>        ।।        </b><a href="../../9/34">BG-9.34  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 9, Shloka 33) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/32">⏪  BG-9.32</a><b>        ।।        </b><a href="../../9/34">BG-9.34  ⏩</a></center>

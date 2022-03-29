@@ -3,4 +3,4 @@
 <h3>तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च |<br/>अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ||९-१९||</h3>
 <pre>tapāmyahamahaṃ varṣaṃ nigṛhṇāmyutsṛjāmi ca .<br/>amṛtaṃ caiva mṛtyuśca sadasaccāhamarjuna ||9-19||</pre>
 <p>।।9.19।। हे अर्जुन ! मैं ही (सूर्य रूप में) तपता हूँ; मैं वर्षा का निग्रह और उत्सर्जन करता हूँ। मैं ही अमृत और मृत्यु एवं सत् और असत् हूँ।।</p>
-<pre>(Bhagavad Gita, Chapter 9, Shloka 19) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/18">⏪  BG-9.18</a><b>        ।।        </b><a href="../../9/20">BG-9.20  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 9, Shloka 19) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../9/18">⏪  BG-9.18</a><b>        ।।        </b><a href="../../9/20">BG-9.20  ⏩</a></center>

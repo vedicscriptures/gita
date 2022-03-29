@@ -3,4 +3,4 @@
 <h3>समः शत्रौ च मित्रे च तथा मानापमानयोः |<br/>शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||</h3>
 <pre>samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .<br/>śītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||</pre>
 <p>Swami Tejomayananda did not comment on this sloka</p>
-<pre>(Bhagavad Gita, Chapter 12, Shloka 18) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/17">⏪  BG-12.17</a><b>        ।।        </b><a href="../../12/19">BG-12.19  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 12, Shloka 18) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/17">⏪  BG-12.17</a><b>        ।।        </b><a href="../../12/19">BG-12.19  ⏩</a></center>

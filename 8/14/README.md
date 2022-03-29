@@ -3,4 +3,4 @@
 <h3>अनन्यचेताः सततं यो मां स्मरति नित्यशः |<br/>तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||</h3>
 <pre>ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ .<br/>tasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ ||8-14||</pre>
 <p>।।8.14।। हे पार्थ ! जो अनन्यचित्त वाला पुरुष मेरा स्मरण करता है, उस नित्ययुक्त योगी के लिए मैं सुलभ हूँ अर्थात् सहज ही प्राप्त हो जाता हूँ।।</p>
-<pre>(Bhagavad Gita, Chapter 8, Shloka 14) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/13">⏪  BG-8.13</a><b>        ।।        </b><a href="../../8/15">BG-8.15  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 8, Shloka 14) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../8/13">⏪  BG-8.13</a><b>        ।।        </b><a href="../../8/15">BG-8.15  ⏩</a></center>

@@ -3,4 +3,4 @@
 <h3>यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति |<br/>शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||</h3>
 <pre>yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati .<br/>śubhāśubhaparityāgī bhaktimānyaḥ sa me priyaḥ ||12-17||</pre>
 <p>।।12.17।। जो न हर्षित होता है और न द्वेष करता है; न शोक करता है और न आकांक्षा; तथा जो शुभ और अशुभ को त्याग देता है, वह भक्तिमान् पुरुष मुझे प्रिय है।।</p>
-<pre>(Bhagavad Gita, Chapter 12, Shloka 17) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/16">⏪  BG-12.16</a><b>        ।।        </b><a href="../../12/18">BG-12.18  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 12, Shloka 17) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../12/16">⏪  BG-12.16</a><b>        ।।        </b><a href="../../12/18">BG-12.18  ⏩</a></center>

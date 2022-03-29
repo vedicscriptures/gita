@@ -3,4 +3,4 @@
 <h3>मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय |<br/>मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ||७-७||</h3>
 <pre>mattaḥ parataraṃ nānyatkiñcidasti dhanañjaya .<br/>mayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva ||7-7||</pre>
 <p>।।7.7।। हे धनंजय ! मुझसे श्रेष्ठ (परे) अन्य किचिन्मात्र वस्तु नहीं है। यह सम्पूर्ण जगत् सूत्र में मणियों के सदृश मुझमें पिरोया हुआ है।।</p>
-<pre>(Bhagavad Gita, Chapter 7, Shloka 7) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../7/6">⏪  BG-7.6</a><b>        ।।        </b><a href="../../7/8">BG-7.8  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 7, Shloka 7) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../7/6">⏪  BG-7.6</a><b>        ।।        </b><a href="../../7/8">BG-7.8  ⏩</a></center>

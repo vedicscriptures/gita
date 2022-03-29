@@ -3,4 +3,4 @@
 <h3>अहमात्मा गुडाकेश सर्वभूताशयस्थितः |<br/>अहमादिश्च मध्यं च भूतानामन्त एव च ||१०-२०||</h3>
 <pre>ahamātmā guḍākeśa sarvabhūtāśayasthitaḥ .<br/>ahamādiśca madhyaṃ ca bhūtānāmanta eva ca ||10-20||</pre>
 <p>।।10.20।। हे गुडाकेश (निद्राजित्) ! मैं समस्त भूतों के हृदय में स्थित सबकी आत्मा हूँ तथा सम्पूर्ण भूतों का आदि, मध्य और अन्त भी मैं ही हूँ।।</p>
-<pre>(Bhagavad Gita, Chapter 10, Shloka 20) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/19">⏪  BG-10.19</a><b>        ।।        </b><a href="../../10/21">BG-10.21  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 10, Shloka 20) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../10/19">⏪  BG-10.19</a><b>        ।।        </b><a href="../../10/21">BG-10.21  ⏩</a></center>

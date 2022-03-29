@@ -3,4 +3,4 @@
 <h3>यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता |<br/>योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ||६-१९||</h3>
 <pre>yathā dīpo nivātastho neṅgate sopamā smṛtā .<br/>yogino yatacittasya yuñjato yogamātmanaḥ ||6-19||</pre>
 <p>।।6.19।। जैसे स्पन्दनरहित वायुके स्थानमें स्थित दीपककी लौ चेष्टारहित हो जाती है, योगका अभ्यास करते हुए यतचित्तवाले योगीके चित्तकी वैसी ही उपमा कही गयी है।।</p>
-<pre>(Bhagavad Gita, Chapter 6, Shloka 19) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/18">⏪  BG-6.18</a><b>        ।।        </b><a href="../../6/20">BG-6.20  ⏩</a></center></center>
+<pre>(Bhagavad Gita, Chapter 6, Shloka 19) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../6/18">⏪  BG-6.18</a><b>        ।।        </b><a href="../../6/20">BG-6.20  ⏩</a></center>
