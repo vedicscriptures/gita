@@ -1,41 +1,31 @@
 ---
+title : GET /gita.svg
 description: This endpoint allows you to get randomly genrated gita sloks.
 ---
 
 # GET /slok
 
-{% api-method method="get" host="https://bhagavadgitaapi.in" path="/slok" %}
-{% api-method-summary %}
-Get Random Gita Slok
-{% endapi-method-summary %}
+**api-method** : get 
 
-{% api-method-description %}
-This endpoint allows you to get randomly genrated gita sloks.
-{% endapi-method-description %}
+**url** : https://bhagavadgitaapi.in/slok
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-headers %}
-{% api-method-parameter name="x-api-key" type="string" required=false %}
-Authentication token to track down who is emptying our stocks.  
-Just use the API Key emailed to you when you signed up.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
+**description** : This endpoint allows you to get any random slok of Shreemad Bhagavad Gita
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="api\_key" type="string" %}
-Alternate way to send Authentication token
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
+**Query parameter** :
+  - **ch** - (_Chapter Number_)
+    - **type** : _integer_
+    - **description** : _specfic chapter number from any of 18 chapters_
+    - **required** : _optional_
+    - **example** : _1 to 18_
+  - **sl** - (_Slok Number_)
+    - **type** : _integer_
+    - **description** : _specfic slok number avilable in that particuler chapters_
+    - **required** : _optional_
+    - **example** : _1_  
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-successfully retrieved.
-{% endapi-method-response-example-description %}
+### Output
 
-```text
+```json
 {
   "_id": "BG4.18",
   "chapter": 4,
@@ -134,18 +124,3 @@ successfully retrieved.
   }
 }
 ```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
-
-```text
-{ error: 'Internal Server Error'}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-

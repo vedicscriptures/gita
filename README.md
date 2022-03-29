@@ -18,25 +18,20 @@ Loved the tool? Please consider [donating](https://paypal.me/ptprashanttripathi/
 
 ## 🚀 Api Reference
 
-1. GET [/slok](api-reference/get-slok.md)
-2. GET [/slok/:ch/:sl](api-reference/get-slokm.md)
-3. GET [/chapters](api-reference/get-chapters.md)
-4. GET [/chapter/:ch](api-reference/get-chapter.md)
-5. GET [/gita.svg](api-reference/get-gita.svg.md)
+1. GET [/slok](get-slok.md)
+2. GET [/slok/:ch/:sl](get-slokm.md)
+3. GET [/chapters](get-chapters.md)
+4. GET [/chapter/:ch](get-chapter.md)
+5. GET [/gita.svg](get-gita.svg.md)
 
-Tutorial:
+## ▶️ Tutorial:
 
-{% youtube src="https://www.youtube.com/watch?v=1OVXdkFoKIg" %}{% endyoutube %}
+[![https://youtu.be/1OVXdkFoKIg](https://i.imgur.com/aAY2ZNO.png)](https://youtu.be/1OVXdkFoKIg)
 
-## 💡 API key
+## 💡 pricing
 
-{% hint style="info" %}
-A new 🔒 Authentication Feature introduced in our Bhagavad Gita API. if you don’t have an API Key, just head over to [https://docs.bhagavadgitaapi.in/pricing](pricing.md) and Get your license now for free.
-{% endhint %}
-
-Take a look at this video:
-
-{% youtube src="https://www.youtube.com/watch?v=UmT9dUUCqm8" %}{% endyoutube %}
+A public service Bhagavad Gita API is A lightweight Rest API, free to use when making your fancy new App, Website or Service. No hidden costs, no hidden fees.
+Free for you to use on your non-monetized app 
 
 ## 💻 Built with
 
@@ -57,4 +52,3 @@ Take a look at this video:
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ptprashant09) [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptprashanttripathi/) [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ptprashanttripathi/) [![](https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ptprashanttripathi/) [![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ptprashanttripathi) [![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/ptprashanttripathi)
 
 Developed with ❤️ in India 🇮🇳
-

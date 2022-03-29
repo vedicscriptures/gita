@@ -1,40 +1,18 @@
 ---
+title : GET /chapters
 description: GET All Chapters details of Shreemad Bhagavad Gita
 ---
 
 # GET /chapters
 
-{% api-method method="get" host="https://bhagavadgitaapi.in" path="/chapters" %}
-{% api-method-summary %}
-/chapters
-{% endapi-method-summary %}
+**api-method** : get 
 
-{% api-method-description %}
-This endpoint allows you to get all Chapters details of Shreemad Bhagavad Gita.
-{% endapi-method-description %}
+**url** : https://bhagavadgitaapi.in/chapters
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-headers %}
-{% api-method-parameter name="x-api-key" type="string" required=false %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
+**description** : This endpoint allows you to get all Chapters details of Shreemad Bhagavad Gita.
 
-{% api-method-query-parameters %}
-{% api-method-parameter type="string" name="api\_key" %}
-Alternate way to send Authentication token
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-successfully retrieved.
-{% endapi-method-response-example-description %}
-
-```text
+### Output
+```json
 [
   {
     "chapter_number": 1,
@@ -69,18 +47,3 @@ successfully retrieved.
   }
 ]
 ```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a matching this query.
-{% endapi-method-response-example-description %}
-
-```text
-{ error: 'Internal Server Error'}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
