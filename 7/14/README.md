@@ -1,0 +1,6 @@
+<center><img src="../../asset/BG.png" alt="#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology"/>
+<h2>||श्रीमद्‍भगवद्‍-गीता ७.१४||</h2>
+<h3>दैवी ह्येषा गुणमयी मम माया दुरत्यया |<br/>मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ||७-१४||</h3>
+<pre>daivī hyeṣā guṇamayī mama māyā duratyayā .<br/>māmeva ye prapadyante māyāmetāṃ taranti te ||7-14||</pre>
+<p>।।7.14।। यह दैवी त्रिगुणमयी मेरी माया बड़ी दुस्तर है। परन्तु जो मेरी शरण में आते हैं, वे इस माया को पार कर जाते हैं।।</p>
+<pre>(Bhagavad Gita, Chapter 7, Shloka 14) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../7/13">⏪  BG-7.13</a><b>        ।।        </b><a href="../../7/15">BG-7.15  ⏩</a></center></center>

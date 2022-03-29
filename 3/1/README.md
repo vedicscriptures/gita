@@ -1,0 +1,6 @@
+<center><img src="../../asset/BG.png" alt="#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology"/>
+<h2>||श्रीमद्‍भगवद्‍-गीता ३.१||</h2>
+<h3>अर्जुन उवाच |<br/>ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन |<br/>तत्किं कर्मणि घोरे मां नियोजयसि केशव ||३-१||</h3>
+<pre>arjuna uvāca .<br/>jyāyasī cetkarmaṇaste matā buddhirjanārdana .<br/>tatkiṃ karmaṇi ghore māṃ niyojayasi keśava ||3-1||</pre>
+<p>।।3.1।। हे जनार्दन  यदि आपको यह मान्य है कि कर्म से ज्ञान श्रेष्ठ है तो फिर हे केशव  आप मुझे इस भयंकर कर्म में क्यों प्रवृत्त करते हैं</p>
+<pre>(Bhagavad Gita, Chapter 3, Shloka 1) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../2/72">⏪  BG-2.72</a><b>        ।।        </b><a href="../../3/2">BG-3.2  ⏩</a></center></center>

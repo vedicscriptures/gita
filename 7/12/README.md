@@ -1,0 +1,6 @@
+<center><img src="../../asset/BG.png" alt="#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology"/>
+<h2>||श्रीमद्‍भगवद्‍-गीता ७.१२||</h2>
+<h3>ये चैव सात्त्विका भावा राजसास्तामसाश्च ये |<br/>मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ||७-१२||</h3>
+<pre>ye caiva sāttvikā bhāvā rājasāstāmasāśca ye .<br/>matta eveti tānviddhi na tvahaṃ teṣu te mayi ||7-12||</pre>
+<p>।।7.12।। जो भी सात्त्विक (शुद्ध), राजसिक (क्रियाशील) और तामसिक (जड़) भाव हैं, उन सबको तुम मेरे से उत्पन्न हुए जानो; तथापि मैं उनमें नहीं हूँ, वे मुझमें हैं।।</p>
+<pre>(Bhagavad Gita, Chapter 7, Shloka 12) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../7/11">⏪  BG-7.11</a><b>        ।।        </b><a href="../../7/13">BG-7.13  ⏩</a></center></center>

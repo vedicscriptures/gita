@@ -1,0 +1,6 @@
+<center><img src="../../asset/BG.png" alt="#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology"/>
+<h2>||श्रीमद्‍भगवद्‍-गीता १५.९||</h2>
+<h3>श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च |<br/>अधिष्ठाय मनश्चायं विषयानुपसेवते ||१५-९||</h3>
+<pre>śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca .<br/>adhiṣṭhāya manaścāyaṃ viṣayānupasevate ||15-9||</pre>
+<p>।।15.9।। (यह जीव) श्रोत्र, चक्षु, स्पर्शेन्द्रिय, रसना और घ्राण (नाक) इन इन्द्रियों तथा मन को आश्रय करके अर्थात् इनके द्वारा विषयों का सेवन करता है।।</p>
+<pre>(Bhagavad Gita, Chapter 15, Shloka 9) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../15/8">⏪  BG-15.8</a><b>        ।।        </b><a href="../../15/10">BG-15.10  ⏩</a></center></center>

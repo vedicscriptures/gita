@@ -1,0 +1,10 @@
+<center><h1>Bhagavad Gita API</h1>
+<img alt="Bhagavad Gita API" src="https://repository-images.githubusercontent.com/314205765/0bb18d80-2b22-11eb-8f6f-ccf20c0c2679" width="400vw"/>
+<h2>Chapter 12 : BhaktiYoga</h2>
+<p><a href="1">Slok 1</a> <a href="2">Slok 2</a> <a href="3">Slok 3</a> <a href="4">Slok 4</a> <br>
+<a href="5">Slok 5</a> <a href="6">Slok 6</a> <a href="7">Slok 7</a> <a href="8">Slok 8</a> <br>
+<a href="9">Slok 9</a> <a href="10">Slok 10</a> <a href="11">Slok 11</a> <a href="12">Slok 12</a> <br>
+<a href="13">Slok 13</a> <a href="14">Slok 14</a> <a href="15">Slok 15</a> <a href="16">Slok 16</a> <br>
+<a href="17">Slok 17</a> <a href="18">Slok 18</a> <a href="19">Slok 19</a> <a href="20">Slok 20</a> <br>
+</p><a href="../11">⏪ Chapter 11 : VisvarupaDarsanaYoga</a><b> ।। </b><a href="../13">Chapter 13 : KsetraKsetrajnaVibhagaYoga ⏩</a>
+<hr><p>Developed with ❤️ in India 🇮🇳</p></center>

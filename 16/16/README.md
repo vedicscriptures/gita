@@ -1,0 +1,6 @@
+<center><img src="../../asset/BG.png" alt="#API #bhagavadgitaapi #slok #nodejs #js #api #gitaapi #krishna #hinduism #vedic #ISKCON #shreemadbhagavadgita #technology"/>
+<h2>||श्रीमद्‍भगवद्‍-गीता १६.१६||</h2>
+<h3>अनेकचित्तविभ्रान्ता मोहजालसमावृताः |<br/>प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||</h3>
+<pre>anekacittavibhrāntā mohajālasamāvṛtāḥ .<br/>prasaktāḥ kāmabhogeṣu patanti narake.aśucau ||16-16||</pre>
+<p>।।16.16।। अनेक प्रकार से भ्रमित चित्त वाले, मोह जाल में फँसे तथा विषयभोगों में आसक्त ये लोग घोर, अपवित्र नरक में गिरते हैं।।</p>
+<pre>(Bhagavad Gita, Chapter 16, Shloka 16) || <a href="https://twitter.com/bhagavadgitaapi">@BhagavadGitaApi</a></pre><a href="../../16/15">⏪  BG-16.15</a><b>        ।।        </b><a href="../../16/17">BG-16.17  ⏩</a></center></center>
