@@ -1,4 +1,12 @@
-remote_theme: rundocs/jekyll-rtd-theme
+# Site settings
 lang: sa
 title: Bhagavad Gita Quote API
 description: Bhagavad Gita Quote API for free to all
+url: "https://docs.bhagavadgitaapi.in" # the base hostname & protocol for your site
+twitter_username: bhagavadgitaapi
+github_username:  ptprashanttripathi
+meta:
+  keywords: vedic, vedic,script, programming language, sanskrit, ptprashanttripathi, Pt. Prashant Tripathi
+  author: Pt. Prashant Tripathi
+readme_index:
+  with_frontmatter: true
