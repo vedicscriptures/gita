@@ -2,11 +2,11 @@
 lang: sa
 title: Bhagavad Gita Quote API
 description: Bhagavad Gita Quote API for free to all
-url: "https://docs.bhagavadgitaapi.in" # the base hostname & protocol for your site
+url: https://docs.bhagavadgitaapi.in
 twitter_username: bhagavadgitaapi
-github_username:  ptprashanttripathi
+github_username:  vedicscriptures
 meta:
-  keywords: vedic, vedic,script, programming language, sanskrit, ptprashanttripathi, Pt. Prashant Tripathi
+  keywords: Bhagavad Gita API,vedic, vedic,script, programming language, sanskrit, ptprashanttripathi, Pt. Prashant Tripathi
   author: Pt. Prashant Tripathi
 readme_index:
   with_frontmatter: true
